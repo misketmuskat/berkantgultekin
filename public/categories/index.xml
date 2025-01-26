@@ -4,6 +4,11 @@
     <title>Categories on berkant gültekin</title>
     <link>http://localhost:1313/berkantgultekin/categories/</link>
     <description>Recent content in Categories on berkant gültekin</description>
+    <image>
+      <title>berkant gültekin</title>
+      <url>http://localhost:1313/berkantgultekin/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/berkantgultekin/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
     <generator>Hugo -- 0.142.0</generator>
     <language>en-us</language>
     <atom:link href="http://localhost:1313/berkantgultekin/categories/index.xml" rel="self" type="application/rss+xml" />
