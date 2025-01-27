@@ -12,12 +12,72 @@ minify:
   disableXML: true
   minifyOutput: true
 
+languages:
+  en:
+    languageName: "english"
+    weight: 1
+    taxonomies:
+      category: categories
+      tag: tags
+      series: series
+    menu:
+      main:
+        - name: archive
+          url: archives
+          weight: 5
+        - name: search
+          url: search/
+          weight: 10
+        - name: tags
+          url: tags/
+          weight: 10
+        - name: wiki
+          url: https://github.com/adityatelange/hugo-PaperMod/wiki/
+  tr:
+    languageName: "türkçe"
+    weight: 2
+    taxonomies:
+      category: TRcategories
+      tag: TRtags
+      series: TRseries
+    menu:
+      main:
+        - name: arşiv
+          url: archives
+          weight: 5
+        - name: ara
+          url: search/
+          weight: 10
+        - name: etiketler
+          url: tags/
+          weight: 10
+        - name: wiki
+          url: https://github.com/adityatelange/hugo-PaperMod/wiki/
+    # home-info mode
+    params:
+      homeInfoParams:
+        Title: "Merhaba \U0001F44B"
+        Content: Kişisel bloguma hoşgeldin
+      socialIcons:
+        - name: x
+          url: "https://x.com/"
+        - name: stackoverflow
+          url: "https://stackoverflow.com"
+        - name: github
+          url: "https://github.com/"
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: ExampleSite
-  description: "ExampleSite description"
-  keywords: [Blog, Portfolio, PaperMod]
-  author: Me
+  title: "berkant gültekin"
+  description: "kişisel blog sayfam"
+  author: berkant gültekin
+  keywords: [Blog, Portfolio, Felsefe, Psikoloji, Podcast, Siyaset]
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
@@ -26,15 +86,17 @@ params:
 
   ShowReadingTime: true
   ShowShareButtons: true
+  displayFullLangName: true
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
-  ShowCodeCopyButtons: false
-  ShowWordCount: true
+  ShowCodeCopyButtons: true
+  ShowWordCount: false
   ShowRssButtonInSectionTermList: true
   UseHugoToc: true
+  ShowPageNums: true
   disableSpecial1stPost: false
   disableScrollToTop: false
-  comments: false
+  comments: true
   hidemeta: false
   hideSummary: false
   showtoc: false
@@ -43,17 +105,17 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "<link / abs url>"
+    favicon: "static/favicon.ico"
 
   label:
-    text: "Home"
+    text: "berkant gültekin"
     icon: /apple-touch-icon.png
     iconHeight: 35
 
   # profile-mode
   profileMode:
     enabled: false # needs to be explicitly set
-    title: ExampleSite
+    title: berkant gültekin
     subtitle: "This is subtitle"
     imageUrl: "<img location>"
     imageWidth: 120
