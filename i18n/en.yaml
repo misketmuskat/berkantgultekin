@@ -15,13 +15,13 @@
     other: "{{ .Count }} words"
 
 - id: toc
-  translation: "table of contents"
+  translation: "Table of Contents"
 
 - id: translations
   translation: "read in"
 
 - id: home
-  translation: "home"
+  translation: "Home"
 
 - id: edit_post
   translation: "edit"

@@ -15,10 +15,10 @@
     other: "{{ .Count }} wörter"
 
 - id: toc
-  translation: "inhaltsverzeichnis"
+  translation: "Inhaltsverzeichnis"
 
 - id: translations
-  translation: "übersetzungen"
+  translation: "lese auf"
 
 - id: home
   translation: "home"

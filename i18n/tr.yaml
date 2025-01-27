@@ -15,7 +15,7 @@
     other: "{{ .Count }} sözcük"
 
 - id: toc
-  translation: "içindekiler"
+  translation: "İçindekiler"
 
 - id: translations
   translation: "şu dilde oku"
