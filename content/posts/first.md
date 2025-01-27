@@ -2,7 +2,7 @@
 date: '2025-01-27T01:14:44+01:00'
 draft: false
 title: 'ChatGPT is Bullshit'
-description: "This is "
+description: "My reading and lecture notes on the same named article."
 tags: ["artificial intelligence", "llm", "language"]
 categories: ["philosophy"]
 series: ["reading notes"]
@@ -13,6 +13,9 @@ cover:
 ShowToc: true
 TocOpen: true
 ---
+
+>[!NOTE]
+> The following is my reading and lecture notes on Michael Townsen Hicks's philosophical article on the algorithm of Large Language Models and whether their algorithm's logic is similar to "reasoning" or not. Hicks argues that LLM's are bullshitters.
 
 # ChatGPT is Bullshit
 ## Reading Notes:
