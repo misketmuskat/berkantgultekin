@@ -1,24 +1,29 @@
 ---
 date: '2025-01-27T01:14:44+01:00'
 draft: false
-title: 'ChatGPT is Bullshit'
-description: "My reading and lecture notes on the same named article."
-tags: ["artificial intelligence", "llm", "language"]
-categories: ["philosophy"]
-series: ["reading notes"]
-aliases: ["my-first-entry"]
+title: ChatGPT is Bullshit
+description: My reading and lecture notes on the same named article.
+tags:
+  - artificial intelligence
+  - llm
+  - language
+categories:
+  - philosophy
+series:
+  - reading notes
+aliases:
+  - my-first-entry
 cover:
-    image: "/images/chatgpt.png"
-    hiddenInList: false
+  image: /images/chatgpt.png
+  hiddenInList: false
 ShowToc: true
 TocOpen: true
 ---
+# ChatGPT is Bullshit
 
->[!NOTE]
 > The following is my reading and lecture notes on Michael Townsen Hicks's philosophical article on the algorithm of Large Language Models and whether their algorithm's logic is similar to "reasoning" or not. Hicks argues that LLM's are bullshitters.
 
-# ChatGPT is Bullshit
-## Reading Notes:
+## Reading Notes
 - AI’s don’t lie or hallucinate, they bullshit. They don’t "care" about the truth one way other, they just make stuff up.
 	- That’s a problem because **they’re programmed to appear to care about truthfulness, even they don’t have any real notion of what that is.** They’ve been designed to mislead us.
  - It is trained to form logical sentences. It isn’t trained to actually understand it’s output, limitation and such.
@@ -34,6 +39,7 @@ TocOpen: true
 - AI isn’t experiencing anything, so calling it hallucination didn’t make any sense to begin with. It’s like tech people just picked a random word out of a psychology textbook and were like, “yeah, let’s go with that.”
 - There was an excellent guide to AI Microsoft put out that basically outlines this. They described it as AI “wants to please” which is why the WAY you ask it / prompt it matters. If your prompt has bias or assumptions baked into the question, AI tends to not want to contradict you. [Source](https://www.microsoft.com/en-us/security/blog/2024/06/04/ai-jailbreaks-what-they-are-and-how-they-can-be-mitigated/)
 	- This has to do with the way **word embeddings in LLMs “cluster” around semantic meanings**, so when the AI attempts to retrieve a response it enters a vector space of words with similar semantic meaning for its “prediction” of the “correct response” the user wants.
+
 ## Possible Questions
 - Would you say that "truthiness" is unique to ChatGPT, or does this concept apply to other mainstream media and information technologies as well? How does ChatGPT compare to those?
 - We talked about how output is produced. But the illusion is also lies in the how it turns our input to an output. This gives the illusion of "understanding".
@@ -46,7 +52,8 @@ So, your argument of "ChatGPT as a soft bullshitter" also has a related kind of 
 
 I know these two are focusing two different problems: One is related to truth, the other is to morality. But still, I feel like they are connected. 
 I am interested in hearing your thoughts on this. Do you think applying "the banality of evil" to LLM's exaggerates their role, or does it complement to your "bullshitting" argument? Can Arendt's concept is better to understand LLM's relationship to truth and accountability than "bullshitting", or do these ideas work best together?
-## Lecture Notes:
+
+## Lecture Notes
 - **How do LLMs work?**
 	- LLMs are based on an architecture of machine learning called a 'transformer model' or 'foundation model'.
 	- This is a form of machine learning. The model consists in a large number of connected probability functions.
@@ -66,4 +73,4 @@ I am interested in hearing your thoughts on this. Do you think applying "the ban
 	- The probabilities that the model produces and uses **do not represent** the likelihood of proposition's being true.
 	- They instead represent the likelihood of a word being used.
 	- This is correlated with truth: words are more likely to feature in true sonetences, provided the training data is mostly true.
-	- 
+	-
