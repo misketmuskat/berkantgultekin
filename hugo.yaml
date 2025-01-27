@@ -161,8 +161,8 @@ params:
       url: "https://open.spotify.com/user/berkantgultekin"
     - name: rss
       url: "https://berkantgultekin.com/posts/index.xml"
-
-
+  
+  ShareButtons: ["x", "whatsapp", "reddit", "linkedin", "facebook", "telegram"]
 
   analytics:
     google:
