@@ -2,95 +2,95 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/berkantgultekin/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-01-27T01:14:44+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="http://localhost:1313/berkantgultekin/tr/"
+                href="http://localhost:1313/tr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/berkantgultekin/"
+                href="http://localhost:1313/"
                 />
   </url><url>
-    <loc>http://localhost:1313/berkantgultekin/tags/blog-entry/</loc>
+    <loc>http://localhost:1313/tags/blog-entry/</loc>
     <lastmod>2025-01-27T01:14:44+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/berkantgultekin/categories/categories/</loc>
+    <loc>http://localhost:1313/categories/categories/</loc>
     <lastmod>2025-01-27T01:14:44+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/berkantgultekin/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2025-01-27T01:14:44+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/berkantgultekin/posts/first/</loc>
+    <loc>http://localhost:1313/posts/first/</loc>
     <lastmod>2025-01-27T01:14:44+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="http://localhost:1313/berkantgultekin/tr/posts/first/"
+                href="http://localhost:1313/tr/posts/first/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/berkantgultekin/posts/first/"
+                href="http://localhost:1313/posts/first/"
                 />
   </url><url>
-    <loc>http://localhost:1313/berkantgultekin/series/ne-serisi/</loc>
+    <loc>http://localhost:1313/series/ne-serisi/</loc>
     <lastmod>2025-01-27T01:14:44+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/berkantgultekin/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2025-01-27T01:14:44+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="http://localhost:1313/berkantgultekin/tr/posts/"
+                href="http://localhost:1313/tr/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/berkantgultekin/posts/"
+                href="http://localhost:1313/posts/"
                 />
   </url><url>
-    <loc>http://localhost:1313/berkantgultekin/series/</loc>
+    <loc>http://localhost:1313/series/</loc>
     <lastmod>2025-01-27T01:14:44+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/berkantgultekin/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-01-27T01:14:44+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/berkantgultekin/tags/test/</loc>
+    <loc>http://localhost:1313/tags/test/</loc>
     <lastmod>2025-01-27T01:14:44+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/berkantgultekin/categories/website/</loc>
+    <loc>http://localhost:1313/categories/website/</loc>
     <lastmod>2025-01-27T01:14:44+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/berkantgultekin/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/berkantgultekin/archives/</loc>
+    <loc>http://localhost:1313/archives/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="http://localhost:1313/berkantgultekin/tr/archives/"
+                href="http://localhost:1313/tr/archives/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/berkantgultekin/archives/"
+                href="http://localhost:1313/archives/"
                 />
   </url><url>
-    <loc>http://localhost:1313/berkantgultekin/search/</loc>
+    <loc>http://localhost:1313/search/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="http://localhost:1313/berkantgultekin/tr/search/"
+                href="http://localhost:1313/tr/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/berkantgultekin/search/"
+                href="http://localhost:1313/search/"
                 />
   </url><url>
-    <loc>http://localhost:1313/berkantgultekin/terms/</loc>
+    <loc>http://localhost:1313/terms/</loc>
   </url>
 </urlset>

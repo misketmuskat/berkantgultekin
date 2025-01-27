@@ -1,6 +1,6 @@
 ---
 title: "Terms and Policies" # in any language you want
-layout: "single" # is necessary
+layout: "about" # is necessary
 # url: "/archive"
 # description: "Description for Search"
 summary: "Learn more about our terms and policies, including text and code licenses. Your privacy is a priority for us, and you can browse our site with peace of mind that we do not save cookies on your browser."

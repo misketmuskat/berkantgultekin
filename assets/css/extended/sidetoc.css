@@ -48,3 +48,14 @@
     margin: 5px;
     padding: 0;
 }
+
+/* Eğer "no-toc" sınıfı varsa, tüm ToC ile ilgili düzenlemeleri kaldır */
+.no-toc {
+    display: block; /* Grid düzenini devre dışı bırak */
+}
+.no-toc .post-content {
+    grid-column: auto; /* İçeriği varsayılan genişlikte tut */
+}
+.no-toc .toc {
+    display: none; /* ToC'yi tamamen gizle */
+}

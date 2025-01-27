@@ -1,4 +1,4 @@
-baseURL: 'https://misketmuskat.github.io/berkantgultekin/'
+baseURL: 'https://berkantgultekin.com/'
 languageCode: en-us
 title: berkant gültekin
 theme: PaperMod
@@ -137,11 +137,18 @@ params:
 
   socialIcons:
     - name: x
-      url: "https://x.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
+      url: "https://x.com/berkantgultekin"
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/misketmuskat"
+    - name: spotify
+      url: "https://open.spotify.com/user/berkantgultekin"
+    - name: cv
+      url: "will ve updated"
+    - name: email
+      url: "berkantgultekin@tutanota.com"
+    - name: instagram
+      url: "https://instagram.com"
+
 
   analytics:
     google:

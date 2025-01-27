@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>berkant gültekin</title>
-    <link>http://localhost:1313/berkantgultekin/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on berkant gültekin</description>
     <image>
       <title>berkant gültekin</title>
-      <url>http://localhost:1313/berkantgultekin/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/berkantgultekin/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.142.0</generator>
     <language>en</language>
     <lastBuildDate>Mon, 27 Jan 2025 01:14:44 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/berkantgultekin/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First</title>
-      <link>http://localhost:1313/berkantgultekin/posts/first/</link>
+      <link>http://localhost:1313/posts/first/</link>
       <pubDate>Mon, 27 Jan 2025 01:14:44 +0100</pubDate>
-      <guid>http://localhost:1313/berkantgultekin/posts/first/</guid>
+      <guid>http://localhost:1313/posts/first/</guid>
       <description>This is the description of the post.</description>
     </item>
     <item>
-      <title>About</title>
-      <link>http://localhost:1313/berkantgultekin/about/</link>
+      <title>about</title>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/berkantgultekin/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>Berkant Gültekin, Analytical Engineer passionate about Data Science. In her blog she mixes the technical with the accessible, offering content about programming and discoveries for readers of different skill levels.</description>
     </item>
     <item>
       <title>Terms and Policies</title>
-      <link>http://localhost:1313/berkantgultekin/terms/</link>
+      <link>http://localhost:1313/terms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/berkantgultekin/terms/</guid>
+      <guid>http://localhost:1313/terms/</guid>
       <description>Learn more about our terms and policies, including text and code licenses. Your privacy is a priority for us, and you can browse our site with peace of mind that we do not save cookies on your browser.</description>
     </item>
   </channel>

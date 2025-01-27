@@ -2,73 +2,73 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/berkantgultekin/tr/</loc>
+    <loc>http://localhost:1313/tr/</loc>
     <lastmod>2025-01-27T01:14:44+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/berkantgultekin/"
+                href="http://localhost:1313/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="http://localhost:1313/berkantgultekin/tr/"
+                href="http://localhost:1313/tr/"
                 />
   </url><url>
-    <loc>http://localhost:1313/berkantgultekin/tr/posts/first/</loc>
+    <loc>http://localhost:1313/tr/posts/first/</loc>
     <lastmod>2025-01-27T01:14:44+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/berkantgultekin/posts/first/"
+                href="http://localhost:1313/posts/first/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="http://localhost:1313/berkantgultekin/tr/posts/first/"
+                href="http://localhost:1313/tr/posts/first/"
                 />
   </url><url>
-    <loc>http://localhost:1313/berkantgultekin/tr/posts/</loc>
+    <loc>http://localhost:1313/tr/posts/</loc>
     <lastmod>2025-01-27T01:14:44+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/berkantgultekin/posts/"
+                href="http://localhost:1313/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="http://localhost:1313/berkantgultekin/tr/posts/"
+                href="http://localhost:1313/tr/posts/"
                 />
   </url><url>
-    <loc>http://localhost:1313/berkantgultekin/tr/search/</loc>
+    <loc>http://localhost:1313/tr/search/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/berkantgultekin/search/"
+                href="http://localhost:1313/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="http://localhost:1313/berkantgultekin/tr/search/"
+                href="http://localhost:1313/tr/search/"
                 />
   </url><url>
-    <loc>http://localhost:1313/berkantgultekin/tr/archives/</loc>
+    <loc>http://localhost:1313/tr/archives/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/berkantgultekin/archives/"
+                href="http://localhost:1313/archives/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="http://localhost:1313/berkantgultekin/tr/archives/"
+                href="http://localhost:1313/tr/archives/"
                 />
   </url><url>
-    <loc>http://localhost:1313/berkantgultekin/tr/trcategories/</loc>
+    <loc>http://localhost:1313/tr/trcategories/</loc>
   </url><url>
-    <loc>http://localhost:1313/berkantgultekin/tr/trseries/</loc>
+    <loc>http://localhost:1313/tr/trseries/</loc>
   </url><url>
-    <loc>http://localhost:1313/berkantgultekin/tr/trtags/</loc>
+    <loc>http://localhost:1313/tr/trtags/</loc>
   </url>
 </urlset>
