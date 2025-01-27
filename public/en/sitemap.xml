@@ -15,6 +15,15 @@
                 href="http://localhost:1313/berkantgultekin/"
                 />
   </url><url>
+    <loc>http://localhost:1313/berkantgultekin/tags/blog-entry/</loc>
+    <lastmod>2025-01-27T01:14:44+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/berkantgultekin/categories/categories/</loc>
+    <lastmod>2025-01-27T01:14:44+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/berkantgultekin/categories/</loc>
+    <lastmod>2025-01-27T01:14:44+01:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/berkantgultekin/posts/first/</loc>
     <lastmod>2025-01-27T01:14:44+01:00</lastmod>
     <xhtml:link
@@ -27,6 +36,9 @@
                 hreflang="en"
                 href="http://localhost:1313/berkantgultekin/posts/first/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/berkantgultekin/series/ne-serisi/</loc>
+    <lastmod>2025-01-27T01:14:44+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/berkantgultekin/posts/</loc>
     <lastmod>2025-01-27T01:14:44+01:00</lastmod>
@@ -41,6 +53,20 @@
                 href="http://localhost:1313/berkantgultekin/posts/"
                 />
   </url><url>
+    <loc>http://localhost:1313/berkantgultekin/series/</loc>
+    <lastmod>2025-01-27T01:14:44+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/berkantgultekin/tags/</loc>
+    <lastmod>2025-01-27T01:14:44+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/berkantgultekin/tags/test/</loc>
+    <lastmod>2025-01-27T01:14:44+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/berkantgultekin/categories/website/</loc>
+    <lastmod>2025-01-27T01:14:44+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/berkantgultekin/about/</loc>
+  </url><url>
     <loc>http://localhost:1313/berkantgultekin/archives/</loc>
     <xhtml:link
                 rel="alternate"
@@ -52,8 +78,6 @@
                 hreflang="en"
                 href="http://localhost:1313/berkantgultekin/archives/"
                 />
-  </url><url>
-    <loc>http://localhost:1313/berkantgultekin/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/berkantgultekin/search/</loc>
     <xhtml:link
@@ -67,8 +91,6 @@
                 href="http://localhost:1313/berkantgultekin/search/"
                 />
   </url><url>
-    <loc>http://localhost:1313/berkantgultekin/series/</loc>
-  </url><url>
-    <loc>http://localhost:1313/berkantgultekin/tags/</loc>
+    <loc>http://localhost:1313/berkantgultekin/terms/</loc>
   </url>
 </urlset>

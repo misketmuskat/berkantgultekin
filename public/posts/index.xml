@@ -18,8 +18,7 @@
       <link>http://localhost:1313/berkantgultekin/posts/first/</link>
       <pubDate>Mon, 27 Jan 2025 01:14:44 +0100</pubDate>
       <guid>http://localhost:1313/berkantgultekin/posts/first/</guid>
-      <description>&lt;h2 id=&#34;this-should-be-in-english&#34;&gt;This should be in English&lt;/h2&gt;
-&lt;p&gt;And this should be the entry.&lt;/p&gt;</description>
+      <description>This is the description of the post.</description>
     </item>
   </channel>
 </rss>

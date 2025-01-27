@@ -7,6 +7,7 @@ enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
+enableEmoji: true
 
 minify:
   disableXML: true
@@ -14,7 +15,7 @@ minify:
 
 languages:
   en:
-    languageName: "english"
+    languageName: "en"
     weight: 1
     taxonomies:
       category: categories
@@ -30,11 +31,11 @@ languages:
           weight: 10
         - name: tags
           url: tags/
-          weight: 10
-        - name: wiki
-          url: https://github.com/adityatelange/hugo-PaperMod/wiki/
+          weight: 20
+        - name: about
+          url: about/
   tr:
-    languageName: "türkçe"
+    languageName: "tr"
     weight: 2
     taxonomies:
       category: TRcategories
@@ -50,21 +51,19 @@ languages:
           weight: 10
         - name: etiketler
           url: tags/
-          weight: 10
-        - name: wiki
-          url: https://github.com/adityatelange/hugo-PaperMod/wiki/
+          weight: 20
+        - name: hakkımda
+          url: about/
+          weight: 20
     # home-info mode
     params:
       homeInfoParams:
         Title: "Merhaba \U0001F44B"
         Content: Kişisel bloguma hoşgeldin
-      socialIcons:
-        - name: x
-          url: "https://x.com/"
-        - name: stackoverflow
-          url: "https://stackoverflow.com"
-        - name: github
-          url: "https://github.com/"
+#      editPost:
+#        URL: "https://github.com/misketmuskat/berkantgultekin/tree/main/content"
+#        Text: "düzenleme öner" # edit text
+#        appendFilePath: true # to append file path to Edit link
 
 outputs:
   home:
@@ -82,8 +81,8 @@ params:
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
+  
   disableThemeToggle: false
-
   ShowReadingTime: true
   ShowShareButtons: true
   displayFullLangName: true
@@ -105,12 +104,16 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "static/favicon.ico"
+    favicon: "/favicon.ico"
+    favicon16x16: "/favicon-16x16.png"
+    favicon32x32: "/favicon-32x32.png"
+    apple_touch_icon: "/apple-touch-icon.png"
+    safari_pinned_tab: "/safari-pinned-tab.svg"
 
   label:
     text: "berkant gültekin"
-    icon: /apple-touch-icon.png
-    iconHeight: 35
+#    icon: /apple-touch-icon.png
+#    iconHeight: 35
 
   # profile-mode
   profileMode:
@@ -153,10 +156,10 @@ params:
     hiddenInList: true # hide on list pages and home
     hiddenInSingle: true # hide on single page
 
-  editPost:
-    URL: "https://github.com/<path_to_repo>/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+#  editPost:
+#    URL: "https://github.com/misketmuskat/berkantgultekin/tree/main/content"
+#    Text: "suggest changes" # edit text
+#    appendFilePath: true # to append file path to Edit link
 
   # for search
   # https://fusejs.io/api/options.html
@@ -169,20 +172,7 @@ params:
     minMatchCharLength: 0
     limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
     keys: ["title", "permalink", "summary", "content"]
-menu:
-  main:
-    - identifier: categories
-      name: categories
-      url: /categories/
-      weight: 10
-    - identifier: tags
-      name: tags
-      url: /tags/
-      weight: 20
-    - identifier: example
-      name: example.org
-      url: https://example.org
-      weight: 30
+
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
