@@ -1,33 +1,36 @@
 - id: prev_page
-  translation: "Vorherige"
+  translation: "vorherige"
 
 - id: next_page
-  translation: "Nächste"
+  translation: "nächste"
 
 - id: read_time
   translation:
-    one: "1 Minute"
-    other: "{{ .Count }} Minuten"
+    one: "1 minute"
+    other: "{{ .Count }} minuten"
 
 - id: words
   translation:
-    one : "Wort"
-    other: "{{ .Count }} Wörter"
+    one : "wort"
+    other: "{{ .Count }} wörter"
 
 - id: toc
-  translation: "Inhaltsverzeichnis"
+  translation: "inhaltsverzeichnis"
 
 - id: translations
-  translation: "Übersetzungen"
+  translation: "übersetzungen"
 
 - id: home
-  translation: "Home"
+  translation: "home"
 
 - id: edit_post
-  translation: "Bearbeiten"
+  translation: "bearbeiten"
 
 - id: code_copy
-  translation: "Kopieren"
+  translation: "kopieren"
 
 - id: code_copied
-  translation: "Kopiert!"
+  translation: "kopiert!"
+
+- id: tag
+  translation: "almanca etiket"

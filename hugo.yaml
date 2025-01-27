@@ -38,9 +38,9 @@ languages:
     languageName: "tr"
     weight: 2
     taxonomies:
-      category: TRcategories
-      tag: TRtags
-      series: TRseries
+      category: categories
+      tag: tags
+      series: series
     menu:
       main:
         - name: arşiv
@@ -60,6 +60,19 @@ languages:
       homeInfoParams:
         Title: "Merhaba \U0001F44B"
         Content: Kişisel bloguma hoşgeldin
+      socialIcons:
+        - name: email
+          url: "berkantgultekin@tutanota.com"
+        - name: googlescholar
+          url: "cv.berkantgultekin.com"
+        - name: x
+          url: "https://x.com/berkantgultekin"
+        - name: linkedin
+          url: "https://instagram.com"
+        - name: spotify
+          url: "https://open.spotify.com/user/berkantgultekin"
+        - name: rss
+          url: "https://berkantgultekin.com/tr/posts/index.xml"
 #      editPost:
 #        URL: "https://github.com/misketmuskat/berkantgultekin/tree/main/content"
 #        Text: "düzenleme öner" # edit text
@@ -81,7 +94,7 @@ params:
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
-  
+  ShowFullTextinRSS: true # Supports to show your whole contents in RSS, not just summary  
   disableThemeToggle: false
   ShowReadingTime: true
   ShowShareButtons: true
@@ -125,9 +138,9 @@ params:
     imageHeight: 120
     imageTitle: my image
     buttons:
-      - name: Posts
+      - name: posts
         url: posts
-      - name: Tags
+      - name: tags
         url: tags
 
   # home-info mode
@@ -136,18 +149,19 @@ params:
     Content: Welcome to my blog
 
   socialIcons:
-    - name: x
-      url: "https://x.com/berkantgultekin"
-    - name: github
-      url: "https://github.com/misketmuskat"
-    - name: spotify
-      url: "https://open.spotify.com/user/berkantgultekin"
-    - name: cv
-      url: "will ve updated"
     - name: email
       url: "berkantgultekin@tutanota.com"
-    - name: instagram
+    - name: googlescholar
+      url: "cv.berkantgultekin.com"
+    - name: x
+      url: "https://x.com/berkantgultekin"
+    - name: linkedin
       url: "https://instagram.com"
+    - name: spotify
+      url: "https://open.spotify.com/user/berkantgultekin"
+    - name: rss
+      url: "https://berkantgultekin.com/posts/index.xml"
+
 
 
   analytics:

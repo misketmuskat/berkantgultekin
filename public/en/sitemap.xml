@@ -20,9 +20,29 @@
   </url><url>
     <loc>http://localhost:1313/categories/categories/</loc>
     <lastmod>2025-01-27T01:14:44+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="http://localhost:1313/tr/categories/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/categories/categories/"
+                />
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
     <lastmod>2025-01-27T01:14:44+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="http://localhost:1313/tr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/categories/"
+                />
   </url><url>
     <loc>http://localhost:1313/posts/first/</loc>
     <lastmod>2025-01-27T01:14:44+01:00</lastmod>
@@ -39,6 +59,16 @@
   </url><url>
     <loc>http://localhost:1313/series/ne-serisi/</loc>
     <lastmod>2025-01-27T01:14:44+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="http://localhost:1313/tr/series/ne-serisi/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/series/ne-serisi/"
+                />
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
     <lastmod>2025-01-27T01:14:44+01:00</lastmod>
@@ -55,17 +85,57 @@
   </url><url>
     <loc>http://localhost:1313/series/</loc>
     <lastmod>2025-01-27T01:14:44+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="http://localhost:1313/tr/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/series/"
+                />
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-01-27T01:14:44+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="http://localhost:1313/tr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/"
+                />
   </url><url>
     <loc>http://localhost:1313/tags/test/</loc>
     <lastmod>2025-01-27T01:14:44+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/website/</loc>
     <lastmod>2025-01-27T01:14:44+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="http://localhost:1313/tr/categories/website/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/categories/website/"
+                />
   </url><url>
     <loc>http://localhost:1313/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="http://localhost:1313/tr/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/about/"
+                />
   </url><url>
     <loc>http://localhost:1313/archives/</loc>
     <xhtml:link
@@ -92,5 +162,15 @@
                 />
   </url><url>
     <loc>http://localhost:1313/terms/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="http://localhost:1313/tr/terms/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/terms/"
+                />
   </url>
 </urlset>

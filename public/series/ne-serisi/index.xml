@@ -19,6 +19,9 @@
       <pubDate>Mon, 27 Jan 2025 01:14:44 +0100</pubDate>
       <guid>http://localhost:1313/posts/first/</guid>
       <description>This is the description of the post.</description>
+      <content:encoded><![CDATA[<h2 id="this-should-be-in-english">This should be in English</h2>
+<p>And this should be the entry.</p>
+]]></content:encoded>
     </item>
   </channel>
 </rss>

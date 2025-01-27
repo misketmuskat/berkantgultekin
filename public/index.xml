@@ -19,6 +19,9 @@
       <pubDate>Mon, 27 Jan 2025 01:14:44 +0100</pubDate>
       <guid>http://localhost:1313/posts/first/</guid>
       <description>This is the description of the post.</description>
+      <content:encoded><![CDATA[<h2 id="this-should-be-in-english">This should be in English</h2>
+<p>And this should be the entry.</p>
+]]></content:encoded>
     </item>
     <item>
       <title>about</title>
@@ -26,6 +29,31 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
       <description>Berkant Gültekin, Analytical Engineer passionate about Data Science. In her blog she mixes the technical with the accessible, offering content about programming and discoveries for readers of different skill levels.</description>
+      <content:encoded><![CDATA[<p>Hi! My name is Berkant Gültekin and I&rsquo;m an Analytics Engineer from Turkey. 
+
+
+<img src="https://raw.githubusercontent.com/misketmuskat/berkantgultekin/refs/heads/main/assets/images/pp.jpg" alt="berkant gültekin" height="100%" style="border-radius: 50%; float: right;width: 200px; height: 200px;"/> I&rsquo;ve always liked learning new things and exploring new possibilities and this blog is an outlet for me to create and discover new things related to Data Science.</p>
+<p>I want to write posts that people can read without a technical background, but I also want to showcase and talk about the coding aspects of what I&rsquo;m currently learning, so you&rsquo;ll be able to find a little bit of everything here.</p>
+<p>You can find me at:</p>
+<p><i data-feather="linkedin"></i>
+ 
+ <script>
+     feather.replace()
+ </script> <a href="https://www.linkedin.com/in/medeiros-jaqueline/">medeiros-jaqueline</a><br>
+<i data-feather="github"></i>
+ 
+ <script>
+     feather.replace()
+ </script> <a href="https://github.com/devmedeiros">devmedeiros</a><br>
+<i data-feather="file-text"></i>
+ 
+ <script>
+     feather.replace()
+ </script> <a href="https://cv.berkantgultekin.com">curriculum vitae</a></p>
+<hr>
+<h3 id="disclaimer">Disclaimer</h3>
+<p>This is my personal website. The opinions expressed here are my own and do not reflect the views of my current or previous employers. If you would like to learn about the terms and policies, please visit <a href="http://localhost:1313/terms/">this page</a>.</p>
+]]></content:encoded>
     </item>
     <item>
       <title>Terms and Policies</title>
@@ -33,6 +61,43 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/terms/</guid>
       <description>Learn more about our terms and policies, including text and code licenses. Your privacy is a priority for us, and you can browse our site with peace of mind that we do not save cookies on your browser.</description>
+      <content:encoded><![CDATA[<p>This is my personal blog, the content here is written and edited by me (Jaqueline Souza Medeiros). By continue to use this website, in any and all forms, constitutes acceptance of these terms and policies.</p>
+<p>The content provided is for informational purposes. The posts and projects are my own and may not represent the position, strategy, or opinion of my current or past employers. I will not be liable for any errors or omissions in this information nor for the availability of this information. I will not be liable for any losses, injuries, or damages from the display or use of this information.</p>
+<h2 id="privacy-policy">Privacy policy</h2>
+<h3 id="cookies-and-tracking">Cookies and Tracking</h3>
+<p>This website doesn&rsquo;t use cookies to track or identify users, but it does use Google Analytics to track user engagement and use of the website. The report provided by Google Analytics doesn&rsquo;t have any identifying information on visitors. Please read more about <a href="https://policies.google.com/privacy">Google&rsquo;s Privacy Policy</a>.</p>
+<h2 id="license">License</h2>
+<p>All source code on this website is licensed under MIT.</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-txt" data-lang="txt"><span class="line"><span class="cl">MIT License
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">Copyright 2021-2024 Jaqueline Souza Medeiros
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">Permission is hereby granted, free of charge, to any person obtaining a copy of this 
+</span></span><span class="line"><span class="cl">software and associated documentation files (the &#34;Software&#34;), to deal in the Software
+</span></span><span class="line"><span class="cl">without restriction, including without limitation the rights to use, copy, modify, 
+</span></span><span class="line"><span class="cl">merge, publish, distribute, sublicense, and/or sell copies of the Software, and to 
+</span></span><span class="line"><span class="cl">permit persons to whom the Software is furnished to do so, subject to the following 
+</span></span><span class="line"><span class="cl">conditions:
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">The above copyright notice and this permission notice shall be included in all copies 
+</span></span><span class="line"><span class="cl">or substantial portions of the Software.
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">THE SOFTWARE IS PROVIDED &#34;AS IS&#34;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, 
+</span></span><span class="line"><span class="cl">INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR 
+</span></span><span class="line"><span class="cl">PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE 
+</span></span><span class="line"><span class="cl">LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT
+</span></span><span class="line"><span class="cl">OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR 
+</span></span><span class="line"><span class="cl">OTHER DEALINGS IN THE SOFTWARE.
+</span></span></code></pre></div><p>The <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC-BY-SA-4.0</a> applies for all content otherwise noticed under /post/ and /projects/.</p>
+<h2 id="favicon">Favicon</h2>
+<p>This site favicon was generated using the following graphics from Twitter Twemoji:</p>
+<ul>
+<li>Graphics Title: 1f4c8.svg</li>
+<li>Graphics Author: Copyright 2020 Twitter, Inc and other contributors (<a href="https://github.com/twitter/twemoji">https://github.com/twitter/twemoji</a>)</li>
+<li>Graphics Source: <a href="https://github.com/twitter/twemoji/blob/master/assets/svg/1f4ca.svg">https://github.com/twitter/twemoji/blob/master/assets/svg/1f4ca.svg</a></li>
+<li>Graphics License: CC-BY 4.0 (<a href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</a>)</li>
+</ul>
+]]></content:encoded>
     </item>
   </channel>
 </rss>

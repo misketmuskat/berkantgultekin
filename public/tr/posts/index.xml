@@ -18,8 +18,10 @@
       <link>http://localhost:1313/tr/posts/first/</link>
       <pubDate>Mon, 27 Jan 2025 01:14:44 +0100</pubDate>
       <guid>http://localhost:1313/tr/posts/first/</guid>
-      <description>&lt;h2 id=&#34;bu-türkçe-bir-içerik&#34;&gt;Bu Türkçe bir içerik&lt;/h2&gt;
-&lt;p&gt;Burada da yazılar olmalı.&lt;/p&gt;</description>
+      <description>Tanımlama.</description>
+      <content:encoded><![CDATA[<h2 id="bu-türkçe-bir-içerik">Bu Türkçe bir içerik</h2>
+<p>Burada da yazılar olmalı.</p>
+]]></content:encoded>
     </item>
   </channel>
 </rss>
