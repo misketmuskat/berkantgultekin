@@ -8,7 +8,7 @@ categories: ["web-sitesi", "kategoriler"]
 series: ["serilerden seri"]
 aliases: ["ilk-girdi"]
 cover:
-    image: "/images/pawel.jpg"
+    image: "/images/chatgpt.png"
     hiddenInList: false
 ShowToc: true
 TocOpen: true
