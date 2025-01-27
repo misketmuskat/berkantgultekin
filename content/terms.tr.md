@@ -1,5 +1,5 @@
 ---
-title: "Terms and Policies" # in any language you want
+title: "terms and policies" # in any language you want
 layout: "about" # is necessary
 # url: "/archive"
 # description: "Description for Search"

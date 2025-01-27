@@ -1,7 +1,7 @@
 ---
 date: '2025-01-27T01:14:44+01:00'
 draft: false
-title: 'First'
+title: 'first entry'
 description: "This is the description of the post."
 tags: ["test", "blog entry"]
 categories: ["website", "categories"]
