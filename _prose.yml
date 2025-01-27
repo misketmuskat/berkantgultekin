@@ -1,0 +1,84 @@
+prose:
+  rooturl: "content/posts" # Blog yazılarının bulunduğu dizin
+  media: "static/images"   # Medya dosyalarının yükleneceği dizin
+  metadata:
+    content/posts:
+      - name: "date"
+        field:
+          element: "datetime"
+          label: "Tarih"
+          value: "CURRENT_DATETIME"
+          help: "Blog yazısı için tarih ve saat belirleyin."
+      - name: "draft"
+        field:
+          element: "checkbox"
+          label: "Taslak mı?"
+          help: "Yazıyı taslak olarak ayarlamak için işaretleyin."
+          value: false
+      - name: "title"
+        field:
+          element: "text"
+          label: "Başlık"
+          placeholder: "Blog yazınızın başlığını girin."
+      - name: "description"
+        field:
+          element: "textarea"
+          label: "Tanımlama"
+          placeholder: "Yazınızın kısa bir tanımlamasını yazın."
+      - name: "tags"
+        field:
+          element: "multiselect"
+          label: "Etiketler"
+          alterable: true
+          placeholder: "Etiket ekleyin..."
+          options:
+            - name: "türkçe tag"
+              value: "türkçe tag"
+            - name: "ikinci tag"
+              value: "ikinci tag"
+      - name: "categories"
+        field:
+          element: "multiselect"
+          label: "Kategoriler"
+          alterable: true
+          placeholder: "Kategori seçin..."
+          options:
+            - name: "web-sitesi"
+              value: "web-sitesi"
+            - name: "kategoriler"
+              value: "kategoriler"
+      - name: "series"
+        field:
+          element: "multiselect"
+          label: "Seriler"
+          alterable: true
+          placeholder: "Seri seçin veya ekleyin..."
+          options:
+            - name: "serilerden seri"
+              value: "serilerden seri"
+      - name: "aliases"
+        field:
+          element: "text"
+          label: "Alias"
+          placeholder: "URL alias değeri girin (opsiyonel)."
+      - name: "cover.image"
+        field:
+          element: "text"
+          label: "Kapak Görseli"
+          placeholder: "/images/kapak-gorseliniz.png"
+          help: "Kapak görseli için dosya yolunu girin."
+      - name: "cover.hiddenInList"
+        field:
+          element: "checkbox"
+          label: "Kapak Görselini Listeye Gizle"
+          value: false
+      - name: "ShowToc"
+        field:
+          element: "checkbox"
+          label: "İçindekiler Tablosu Göster"
+          value: true
+      - name: "TocOpen"
+        field:
+          element: "checkbox"
+          label: "İçindekiler Tablosunu Açık Tut"
+          value: true
