@@ -16,7 +16,7 @@ tags:
   - yapay zeka
 ---
 
-![ai-writing.jpg]({{site.baseurl}}/static/images/ai-writing.jpg)
+![ai-writing.jpg](images/ai-writing.jpg)
 
 ## Kısa bir bağlam
 

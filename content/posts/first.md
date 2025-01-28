@@ -14,7 +14,7 @@ series:
 aliases:
   - my-first-entry
 cover:
-  image: /images/chatgpt.png
+  image: /images/ai-cover.webp
   hiddenInList: false
 ShowToc: true
 TocOpen: true
