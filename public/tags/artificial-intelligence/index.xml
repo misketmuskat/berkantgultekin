@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Artificial Intelligence on berkant gültekin</title>
+    <link>http://localhost:1313/tags/artificial-intelligence/</link>
+    <description>Recent content in Artificial Intelligence on berkant gültekin</description>
+    <image>
+      <title>berkant gültekin</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.142.0</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 27 Jan 2025 01:14:44 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/artificial-intelligence/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ChatGPT is Bullshit</title>
+      <link>http://localhost:1313/posts/first/</link>
+      <pubDate>Mon, 27 Jan 2025 01:14:44 +0100</pubDate>
+      <guid>http://localhost:1313/posts/first/</guid>
+      <description>My reading and lecture notes on the same named article.</description>
+      <content:encoded><![CDATA[<h1 id="chatgpt-is-bullshit">ChatGPT is Bullshit</h1>
+<blockquote class="note"><p>The following is my reading and lecture notes on Michael Townsen Hicks&rsquo;s philosophical article on the algorithm of Large Language Models and whether their algorithm&rsquo;s logic is similar to &ldquo;reasoning&rdquo; or not. Hicks argues that LLM&rsquo;s are bullshitters.</p>
+</blockquote>
+<h2 id="reading-notes">Reading Notes</h2>
+<ul>
+<li>AI’s don’t lie or hallucinate, they bullshit. They don’t &ldquo;care&rdquo; about the truth one way other, they just make stuff up.
+<ul>
+<li>That’s a problem because <strong>they’re programmed to appear to care about truthfulness, even they don’t have any real notion of what that is.</strong> They’ve been designed to mislead us.</li>
+</ul>
+</li>
+<li>It is trained to form logical sentences. It isn’t trained to actually understand it’s output, limitation and such.
+<ul>
+<li>Actually, <strong>they&rsquo;re trained to form probable sentences</strong>. It&rsquo;s only because we usually write logically that logical sentences are probable.</li>
+</ul>
+</li>
+<li>The term <strong>&ldquo;hallucinate&rdquo; comes from vision model research</strong>, where a model is trained to identify a certain kind of thing, say faces, and then it identifies a &ldquo;face&rdquo; in a shadow pattern, or maybe light poking through the leaves of a tree. The AI is constructing signal from a set of inputs that don&rsquo;t contain the thing it&rsquo;s supposed to find.
+<ul>
+<li>The term was adapted to language models to refer to an imprecise set of circumstances, such as factual incorrectness, fabricated information, task misalignment. <strong>The term &lsquo;hallucinate&rsquo;, however, doesn&rsquo;t make much sense with respect to transformer-based generative models, because they always make up whatever they&rsquo;re tasked to output.</strong></li>
+<li>If you read generative AI papers from a decade ago (the DeepDream era), they will use &ldquo;hallucination&rdquo; to mean all output, not just the &ldquo;lies&rdquo;.</li>
+<li><em>Every</em> ChatGPT responses is <em>equally</em> hallucinatory; some responses are just better at fooling users that they are drawing on &ldquo;knowledge&rdquo; whatsoever.</li>
+</ul>
+</li>
+</ul>
+<p>&ldquo;Bullshit&rdquo; gets us closer because it centers the idea that the system is simply not concerned with the accuracy of its output at all.</p>
+<ul>
+<li>Hallucinations <strong>aren’t some bug or error case,</strong> but merely <strong>the product of the exact same process that gave us accurate information</strong>. But the magic of generative AI is that so often that bullshit does align with the truth.
+<ul>
+<li>That&rsquo;s also exactly why they targeted visual arts so quickly, because it&rsquo;s easier to hide flaws when so much of it is subjective.</li>
+</ul>
+</li>
+<li>AI isn’t experiencing anything, so calling it hallucination didn’t make any sense to begin with. It’s like tech people just picked a random word out of a psychology textbook and were like, “yeah, let’s go with that.”</li>
+<li>There was an excellent guide to AI Microsoft put out that basically outlines this. They described it as AI “wants to please” which is why the WAY you ask it / prompt it matters. If your prompt has bias or assumptions baked into the question, AI tends to not want to contradict you. <a href="https://www.microsoft.com/en-us/security/blog/2024/06/04/ai-jailbreaks-what-they-are-and-how-they-can-be-mitigated/">Source</a>
+<ul>
+<li>This has to do with the way <strong>word embeddings in LLMs “cluster” around semantic meanings</strong>, so when the AI attempts to retrieve a response it enters a vector space of words with similar semantic meaning for its “prediction” of the “correct response” the user wants.</li>
+</ul>
+</li>
+</ul>
+<h2 id="possible-questions">Possible Questions</h2>
+<ul>
+<li>Would you say that &ldquo;truthiness&rdquo; is unique to ChatGPT, or does this concept apply to other mainstream media and information technologies as well? How does ChatGPT compare to those?</li>
+<li>We talked about how output is produced. But the illusion is also lies in the how it turns our input to an output. This gives the illusion of &ldquo;understanding&rdquo;.</li>
+</ul>
+<p>This was a very stimulating paper. It led me to dig deeper. I came across with an article on NYT, dated March 2023, co-written by Noam Chomsky. At the end of the article, they were describing moral stance/indifference of ChatGPT by borrowing a highly influential notion from Hannah Arendt, &ldquo;the banality of evil&rdquo;. So this is what they wrote on the article:</p>
+<blockquote>
+<p>ChatGPT exhibits something like the banality of evil: plagiarism and apathy and obviation. It summarizes the standard arguments in the literature by a kind of super-autocomplete, refuses to take a stand on anything, pleads not merely ignorance but lack of intelligence and ultimately offers a “just following orders” defense, shifting responsibility to its creators.</p>
+</blockquote>
+<p>So, your argument of &ldquo;ChatGPT as a soft bullshitter&rdquo; also has a related kind of indifference, but it is centered around truth rather than morality. So, there’s a moral difference between calling ChatGPT’s outputs “hallucinations” versus “bullshit,” but there&rsquo;s also another step from “bullshit” to “banality of evil” as a concept. Arendt’s “banality of evil” goes further morally.</p>
+<p>I know these two are focusing two different problems: One is related to truth, the other is to morality. But still, I feel like they are connected.
+I am interested in hearing your thoughts on this. Do you think applying &ldquo;the banality of evil&rdquo; to LLM&rsquo;s exaggerates their role, or does it complement to your &ldquo;bullshitting&rdquo; argument? Can Arendt&rsquo;s concept is better to understand LLM&rsquo;s relationship to truth and accountability than &ldquo;bullshitting&rdquo;, or do these ideas work best together?</p>
+<h2 id="lecture-notes">Lecture Notes</h2>
+<ul>
+<li><strong>How do LLMs work?</strong>
+<ul>
+<li>LLMs are based on an architecture of machine learning called a &rsquo;transformer model&rsquo; or &lsquo;foundation model&rsquo;.</li>
+<li>This is a form of machine learning. The model consists in a large number of connected probability functions.
+<ul>
+<li>This is a Bayes net.</li>
+</ul>
+</li>
+<li>These functions are fed a large amount of data typically text from the internet.</li>
+<li>They use that data to construct a predictive probabilities of the texts. What word tokens are likely to appear together?</li>
+<li>The model itself associates with each text with <strong>two vectors</strong> in high-dimensional spaces.</li>
+<li>The first locates a word (token) in a high-dimensional space near other words, that appear in similar contexts.
+<ul>
+<li>We can think of this as representing the meaning of the word.</li>
+<li>However, it only has <strong>some</strong> of what we associate with meaning: the similarity between a word and other words, not necessarily word-world connections or inferential connections.</li>
+</ul>
+</li>
+<li>The second locates the word&rsquo;s surroundings in a high-dimensional space.
+<ul>
+<li>We can think of this as representing the word&rsquo;s context.</li>
+<li>However, it again only includes some of what we think of as context.</li>
+</ul>
+</li>
+<li>The model <strong>selects randomly</strong> among the likely next words in the given context.</li>
+</ul>
+</li>
+<li><strong>Then they are trained with data.</strong></li>
+<li><strong>When it goes wrong?</strong>
+<ul>
+<li>The probabilities that the model produces and uses <strong>do not represent</strong> the likelihood of proposition&rsquo;s being true.</li>
+<li>They instead represent the likelihood of a word being used.</li>
+<li>This is correlated with truth: words are more likely to feature in true sonetences, provided the training data is mostly true.</li>
+<li></li>
+</ul>
+</li>
+</ul>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

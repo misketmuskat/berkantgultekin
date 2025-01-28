@@ -22,6 +22,7 @@ TocOpen: true
 # ChatGPT is Bullshit
 
 > The following is my reading and lecture notes on Michael Townsen Hicks's philosophical article on the algorithm of Large Language Models and whether their algorithm's logic is similar to "reasoning" or not. Hicks argues that LLM's are bullshitters.
+{.note}
 
 ## Reading Notes
 - AI’s don’t lie or hallucinate, they bullshit. They don’t "care" about the truth one way other, they just make stuff up.

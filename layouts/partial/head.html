@@ -67,6 +67,9 @@
 {{- /* Add extended css after theme style */ -}}
 {{- $stylesheet := (slice $license_css $core $extended) | resources.Concat "assets/css/stylesheet.css"  }}
 
+{{- $custom_styles := (resources.Get "css/common/styles.css") }}
+{{- $stylesheet := (slice $license_css $core $extended $custom_styles) | resources.Concat "assets/css/stylesheet.css" | resources.Minify }}
+
 {{- if not site.Params.assets.disableFingerprinting }}
 {{- $stylesheet := $stylesheet | fingerprint }}
 <link crossorigin="anonymous" href="{{ $stylesheet.RelPermalink }}" integrity="{{ $stylesheet.Data.Integrity }}" rel="preload stylesheet" as="style">

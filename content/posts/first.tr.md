@@ -17,3 +17,12 @@ TocOpen: true
 ## Bu Türkçe bir içerik
 
 Burada da yazılar olmalı.
+
+> This is a note.
+{.note}
+
+> This is a warning.
+{.warning}
+
+> This is dangerous.
+{.danger}

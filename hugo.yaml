@@ -199,6 +199,12 @@ pygmentsUseClasses: true
 markup:
   highlight:
     noClasses: false
+  goldmark:
+    parser:
+      attribute:
+        block: true # Markdown attribute'lerini blok düzeyinde etkinleştir
+    renderer:
+      unsafe: true  # Gömülü HTML kullanımına izin ver
     # anchorLineNos: true
     # codeFences: true
     # guessSyntax: true
