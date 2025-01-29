@@ -14,9 +14,6 @@ tags:
   - yapay zeka
 cover.hiddenInList: false
 ---
-
-![](https://raw.githubusercontent.com/misketmuskat/berkantgultekin/refs/heads/main/static/images/ai-writing.jpg)
-
 ## Kısa bir bağlam
 
 Öncelikle, bu metni biraz tarihselleştirmek ve zihinlerde bir bağlama oturtabilmek için ufak bir özetle tarihe bir not düşmek isterim.
@@ -32,7 +29,7 @@ Foucault, [Barthes](https://en.wikipedia.org/wiki/The_Death_of_the_Author)
 
 ## ChatGPT is bullshit
 
-
+![](/static/images/ai-writing.jpg)
 
 > This is a note.
 {.note}
