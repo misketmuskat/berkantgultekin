@@ -16,8 +16,7 @@ I want to write posts that people can read without a technical background, but I
 
 You can find me at:
 
- {{< icon "linkedin" >}} [medeiros-jaqueline](https://www.linkedin.com/in/medeiros-jaqueline/)  
- {{< icon "github" >}} [devmedeiros](https://github.com/devmedeiros)  
+ {{< icon "linkedin" >}} [berkantgultekin](https://www.linkedin.com/in/berkantgultekin/)  
  {{< icon "file-text" >}} [curriculum vitae](https://cv.berkantgultekin.com)
 
 

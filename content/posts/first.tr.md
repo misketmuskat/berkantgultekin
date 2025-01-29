@@ -27,6 +27,8 @@ Bu blogun, şu anda okuduğun ilk girdisini yayınlamamdan birkaç gün önce, �
 
 [Foucault](/documents/foucault-what-is-an-author.pdf), [Barthes](/documents/barthes-the-death-of-the-author.pdf)
 
+- Marx: Üretim araçları, üretim ilişkileri, 
+
 ## ChatGPT is bullshit
 
 > This is a note.
