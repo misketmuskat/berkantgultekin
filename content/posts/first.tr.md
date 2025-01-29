@@ -15,7 +15,7 @@ tags:
 cover.hiddenInList: false
 ---
 
-![ai-writing.jpg]({{site.baseurl}}/static/images/ai-writing.jpg)
+![](https://raw.githubusercontent.com/misketmuskat/berkantgultekin/refs/heads/main/static/images/ai-writing.jpg)
 
 ## Kısa bir bağlam
 
