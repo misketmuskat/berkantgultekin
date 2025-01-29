@@ -20,19 +20,5 @@
       <guid>http://localhost:1313/tags/artificial-intelligence/</guid>
       <description></description>
     </item>
-    <item>
-      <title>Language</title>
-      <link>http://localhost:1313/tags/language/</link>
-      <pubDate>Mon, 27 Jan 2025 01:14:44 +0100</pubDate>
-      <guid>http://localhost:1313/tags/language/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Llm</title>
-      <link>http://localhost:1313/tags/llm/</link>
-      <pubDate>Mon, 27 Jan 2025 01:14:44 +0100</pubDate>
-      <guid>http://localhost:1313/tags/llm/</guid>
-      <description></description>
-    </item>
   </channel>
 </rss>

@@ -11,21 +11,6 @@
     </image>
     <generator>Hugo -- 0.142.0</generator>
     <language>tr</language>
-    <lastBuildDate>Mon, 27 Jan 2025 01:14:44 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/tr/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Kategoriler</title>
-      <link>http://localhost:1313/tr/categories/kategoriler/</link>
-      <pubDate>Mon, 27 Jan 2025 01:14:44 +0100</pubDate>
-      <guid>http://localhost:1313/tr/categories/kategoriler/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Web-Sitesi</title>
-      <link>http://localhost:1313/tr/categories/web-sitesi/</link>
-      <pubDate>Mon, 27 Jan 2025 01:14:44 +0100</pubDate>
-      <guid>http://localhost:1313/tr/categories/web-sitesi/</guid>
-      <description></description>
-    </item>
   </channel>
 </rss>

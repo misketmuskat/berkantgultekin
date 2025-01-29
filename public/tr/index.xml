@@ -14,13 +14,19 @@
     <lastBuildDate>Mon, 27 Jan 2025 01:14:44 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/tr/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>ilk girdi</title>
+      <title>Yazar öldü, yaşasın yazar!</title>
       <link>http://localhost:1313/tr/posts/first/</link>
       <pubDate>Mon, 27 Jan 2025 01:14:44 +0100</pubDate>
       <guid>http://localhost:1313/tr/posts/first/</guid>
-      <description>Tanımlama.</description>
-      <content:encoded><![CDATA[<h2 id="bu-türkçe-bir-içerik">Bu Türkçe bir içerik</h2>
-<p>Burada da yazılar olmalı.</p>
+      <description>2025&amp;#39;in başında, yapay zekanın birer metin fabrikasına dönüştüğü günlerde, insan neden bir blog sayfası açar?</description>
+      <content:encoded><![CDATA[<h2 id="kısa-bir-bağlam">Kısa bir bağlam</h2>
+<p>Öncelikle, bu metni biraz tarihselleştirmek ve zihinlerde bir bağlama oturtabilmek için ufak bir özetle tarihe bir not düşmek isterim.</p>
+<p>27 Ocak 2024.
+Bu blogun, şu anda okuduğun ilk girdisini yayınlamamdan birkaç gün önce, Çin menşeili yapay zeka şirketi Deepseek&rsquo;in geliştirdiği Büyük Dil Modeli&rsquo;nin (BDM/LLM) popülerliği, ABD&rsquo;deki teknoloji firmalarının hisselerinde bir şok etkisi yarattı. 24 Ocak Cuma akşamı olaysız kapanan NASDAQ, açıldığı 27 Ocak Pazartesi günü yaklaşık %3&rsquo;lük bir düşüş gördü. Hisse değerindeki %17&rsquo;lik negatif hareketle tablodaki aslan payına sahip NVDIA, medyada en çok haberi yapılan şirket oldu. Deepseek&rsquo;in sunucularına saldırı düzenlendiğine dair haberler okuyorum, ve gerçekten de Deepseek&rsquo;in BDM&rsquo;i kendisine verilen istekleri (prompt) cevapsız bırakıyor.</p>
+<p>İşte tüm bunlar olurken, bilgisayarımın başına oturmuş, birkaç gün önce temelini attığım kişisel blog sayfama ilk yazımı yazıyorum. Ve bu yazıda, tam da bu soru hakkında düşünmek istiyorum. ChatGPT&rsquo;nin, Claude&rsquo;un, Deepseek&rsquo;in birer yazı makinesi haline geldiği 21. yüzyılın ikinci çeyreğinin başında bir blog yazmanın anlamı nedir? Hadi bunu geçelim, böylesi bir çağda, yazmanın anlamı nedir?</p>
+<h2 id="yazarın-ölümü">&ldquo;Yazarın Ölümü&rdquo;</h2>
+<p><a href="/documents/foucault-what-is-an-author.pdf">Foucault</a>, <a href="/documents/barthes-the-death-of-the-author.pdf">Barthes</a></p>
+<h2 id="chatgpt-is-bullshit">ChatGPT is bullshit</h2>
 <blockquote class="note"><p>This is a note.</p>
 </blockquote>
 <blockquote class="warning"><p>This is a warning.</p>
@@ -38,7 +44,7 @@
       <content:encoded><![CDATA[<p>Hi! My name is Berkant Gültekin and I&rsquo;m an Analytics Engineer from Turkey. 
 
 
-<img src="https://raw.githubusercontent.com/misketmuskat/berkantgultekin/refs/heads/main/assets/images/pp.jpg" alt="berkant gültekin" height="100%" style="border-radius: 50%; float: right;width: 200px; height: 200px;"/> I&rsquo;ve always liked learning new things and exploring new possibilities and this blog is an outlet for me to create and discover new things related to Data Science.</p>
+<img src="/images/pp.jpg" alt="berkant gültekin" height="100%" style="border-radius: 50%; float: right;width: 200px; height: 200px;"/> I&rsquo;ve always liked learning new things and exploring new possibilities and this blog is an outlet for me to create and discover new things related to Data Science.</p>
 <p>I want to write posts that people can read without a technical background, but I also want to showcase and talk about the coding aspects of what I&rsquo;m currently learning, so you&rsquo;ll be able to find a little bit of everything here.</p>
 <p>You can find me at:</p>
 <p><i data-feather="linkedin"></i>

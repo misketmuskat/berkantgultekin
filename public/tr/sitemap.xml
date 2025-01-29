@@ -15,38 +15,6 @@
                 href="http://localhost:1313/tr/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tr/categories/</loc>
-    <lastmod>2025-01-27T01:14:44+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="http://localhost:1313/tr/categories/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/tr/tags/ikinci-tag/</loc>
-    <lastmod>2025-01-27T01:14:44+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tr/posts/first/</loc>
-    <lastmod>2025-01-27T01:14:44+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/posts/first/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="http://localhost:1313/tr/posts/first/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/tr/categories/kategoriler/</loc>
-    <lastmod>2025-01-27T01:14:44+01:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tr/posts/</loc>
     <lastmod>2025-01-27T01:14:44+01:00</lastmod>
     <xhtml:link
@@ -59,22 +27,6 @@
                 hreflang="tr"
                 href="http://localhost:1313/tr/posts/"
                 />
-  </url><url>
-    <loc>http://localhost:1313/tr/series/</loc>
-    <lastmod>2025-01-27T01:14:44+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="http://localhost:1313/tr/series/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/tr/series/serilerden-seri/</loc>
-    <lastmod>2025-01-27T01:14:44+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tr/tags/</loc>
     <lastmod>2025-01-27T01:14:44+01:00</lastmod>
@@ -89,11 +41,21 @@
                 href="http://localhost:1313/tr/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tr/tags/t%C3%BCrk%C3%A7e-tag/</loc>
+    <loc>http://localhost:1313/tr/tags/yapay-zeka/</loc>
     <lastmod>2025-01-27T01:14:44+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tr/categories/web-sitesi/</loc>
+    <loc>http://localhost:1313/tr/posts/first/</loc>
     <lastmod>2025-01-27T01:14:44+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/posts/first/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="http://localhost:1313/tr/posts/first/"
+                />
   </url><url>
     <loc>http://localhost:1313/tr/about/</loc>
     <xhtml:link
@@ -129,6 +91,30 @@
                 rel="alternate"
                 hreflang="tr"
                 href="http://localhost:1313/tr/archives/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/tr/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="http://localhost:1313/tr/categories/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/tr/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="http://localhost:1313/tr/series/"
                 />
   </url><url>
     <loc>http://localhost:1313/tr/terms/</loc>

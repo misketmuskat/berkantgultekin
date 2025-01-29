@@ -14,7 +14,7 @@
     <lastBuildDate>Mon, 27 Jan 2025 01:14:44 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>ChatGPT is Bullshit</title>
+      <title>The author is dead, long live the author!</title>
       <link>http://localhost:1313/posts/first/</link>
       <pubDate>Mon, 27 Jan 2025 01:14:44 +0100</pubDate>
       <guid>http://localhost:1313/posts/first/</guid>
@@ -117,7 +117,7 @@ I am interested in hearing your thoughts on this. Do you think applying &ldquo;t
       <content:encoded><![CDATA[<p>Hi! My name is Berkant Gültekin and I&rsquo;m an Analytics Engineer from Turkey. 
 
 
-<img src="https://raw.githubusercontent.com/misketmuskat/berkantgultekin/refs/heads/main/assets/images/pp.jpg" alt="berkant gültekin" height="100%" style="border-radius: 50%; float: right;width: 200px; height: 200px;"/> I&rsquo;ve always liked learning new things and exploring new possibilities and this blog is an outlet for me to create and discover new things related to Data Science.</p>
+<img src="/images/pp.jpg" alt="berkant gültekin" height="100%" style="border-radius: 50%; float: right;width: 200px; height: 200px;"/> I&rsquo;ve always liked learning new things and exploring new possibilities and this blog is an outlet for me to create and discover new things related to Data Science.</p>
 <p>I want to write posts that people can read without a technical background, but I also want to showcase and talk about the coding aspects of what I&rsquo;m currently learning, so you&rsquo;ll be able to find a little bit of everything here.</p>
 <p>You can find me at:</p>
 <p><i data-feather="linkedin"></i>
