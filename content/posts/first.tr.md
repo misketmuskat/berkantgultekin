@@ -12,9 +12,10 @@ ShowToc: true
 TocOpen: true
 tags:
   - yapay zeka
+cover.hiddenInList: false
 ---
 
-![ai-writing.jpg](static/images/ai-writing.jpg)
+![ai-writing.jpg]({{site.baseurl}}/static/images/ai-writing.jpg)
 
 ## Kısa bir bağlam
 
