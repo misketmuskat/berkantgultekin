@@ -6,17 +6,15 @@ description: >-
   2025'in başında, yapay zekanın birer metin fabrikasına dönüştüğü günlerde,
   insan neden bir blog sayfası açar?
 cover:
-  image: /images/chatgpt.png
+  image: /images/ai-cover.webp
   hiddenInList: false
 ShowToc: true
 TocOpen: true
-cover.hiddenInList: false
-cover.image: /images/ai-cover.webp
 tags:
   - yapay zeka
 ---
 
-![ai-writing.jpg](images/ai-writing.jpg)
+![ai-writing.jpg](static/images/ai-writing.jpg)
 
 ## Kısa bir bağlam
 
