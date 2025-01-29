@@ -10,7 +10,7 @@ noComment: true
 disableShare: true
 ---
 
-Hi! My name is Berkant Gültekin and I'm an Analytics Engineer from Turkey. {{< round-image "https://raw.githubusercontent.com/misketmuskat/berkantgultekin/refs/heads/main/assets/images/pp.jpg" "berkant gültekin">}} I've always liked learning new things and exploring new possibilities and this blog is an outlet for me to create and discover new things related to Data Science. 
+Hi! My name is Berkant Gültekin and I'm an Analytics Engineer from Turkey. {{< round-image "/images/pp.jpg" "berkant gültekin">}} I've always liked learning new things and exploring new possibilities and this blog is an outlet for me to create and discover new things related to Data Science. 
 
 I want to write posts that people can read without a technical background, but I also want to showcase and talk about the coding aspects of what I'm currently learning, so you'll be able to find a little bit of everything here.
 

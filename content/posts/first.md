@@ -1,18 +1,14 @@
 ---
 date: '2025-01-27T01:14:44+01:00'
 draft: false
-title: ChatGPT is Bullshit
+title: The author is dead, long live the author!
 description: My reading and lecture notes on the same named article.
 tags:
   - artificial intelligence
-  - llm
-  - language
 categories:
   - philosophy
 series:
-  - reading notes
 aliases:
-  - my-first-entry
 cover:
   image: /images/ai-cover.png
   hiddenInList: false

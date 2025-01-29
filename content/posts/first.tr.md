@@ -1,7 +1,7 @@
 ---
 date: '2025-01-27T01:14:44+01:00'
 draft: false
-title: ChatGPT Çağında Blog Yazmaya Başlamak
+title: Yazar öldü, yaşasın yazar!
 description: >-
   2025'in başında, yapay zekanın birer metin fabrikasına dönüştüğü günlerde,
   insan neden bir blog sayfası açar?
