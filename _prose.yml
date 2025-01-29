@@ -1,6 +1,6 @@
 prose:
   rooturl: "content/posts" # Blog yazılarının bulunduğu dizin
-  media: "static/images"   # Medya dosyalarının yükleneceği dizin
+  media: "/static/images"   # Medya dosyalarının yükleneceği dizin
   metadata:
     content/posts:
       - name: "date"
