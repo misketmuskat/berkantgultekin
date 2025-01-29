@@ -23,7 +23,7 @@ Bu blogun, şu anda okuduğun ilk girdisini yayınlamamdan birkaç gün önce, �
 
 İşte tüm bunlar olurken, bilgisayarımın başına oturmuş, birkaç gün önce temelini attığım kişisel blog sayfama ilk yazımı yazıyorum. Ve bu yazıda, tam da bu soru hakkında düşünmek istiyorum. ChatGPT'nin, Claude'un, Deepseek'in birer yazı makinesi haline geldiği 21. yüzyılın ikinci çeyreğinin başında bir blog yazmanın anlamı nedir? Hadi bunu geçelim, böylesi bir çağda, yazmanın anlamı nedir?
 
-## Death of the Author
+## "Yazarın Ölümü"
 
 [Foucault](/static/documents/foucault-what-is-an-author.pdf), [Barthes](/static/documents/barthes-the-death-of-the-author.pdf)
 
