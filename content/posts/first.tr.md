@@ -25,7 +25,7 @@ Bu blogun, şu anda okuduğun ilk girdisini yayınlamamdan birkaç gün önce, �
 
 ## Death of the Author
 
-Foucault, [Barthes](https://en.wikipedia.org/wiki/The_Death_of_the_Author)
+[Foucault](/static/documents/foucault-what-is-an-author.pdf), [Barthes](/static/documents/barthes-the-death-of-the-author.pdf)
 
 ## ChatGPT is bullshit
 
