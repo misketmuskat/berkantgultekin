@@ -25,11 +25,11 @@ Bu blogun, şu anda okuduğun ilk girdisini yayınlamamdan birkaç gün önce, �
 
 ## "Yazarın Ölümü"
 
-[Foucault](/static/documents/foucault-what-is-an-author.pdf), [Barthes](/static/documents/barthes-the-death-of-the-author.pdf)
+[Foucault](/documents/foucault-what-is-an-author.pdf), [Barthes](/documents/barthes-the-death-of-the-author.pdf)
 
 ## ChatGPT is bullshit
 
-![](/static/images/ai-writing.jpg)
+![](/images/ai-writing.jpg)
 
 > This is a note.
 {.note}
