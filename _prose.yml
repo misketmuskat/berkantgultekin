@@ -32,10 +32,6 @@ prose:
           alterable: true
           placeholder: "Etiket ekleyin..."
           options:
-            - name: "türkçe tag"
-              value: "türkçe tag"
-            - name: "ikinci tag"
-              value: "ikinci tag"
       - name: "categories"
         field:
           element: "multiselect"
@@ -43,10 +39,6 @@ prose:
           alterable: true
           placeholder: "Kategori seçin..."
           options:
-            - name: "web-sitesi"
-              value: "web-sitesi"
-            - name: "kategoriler"
-              value: "kategoriler"
       - name: "series"
         field:
           element: "multiselect"
@@ -54,8 +46,6 @@ prose:
           alterable: true
           placeholder: "Seri seçin veya ekleyin..."
           options:
-            - name: "serilerden seri"
-              value: "serilerden seri"
       - name: "aliases"
         field:
           element: "text"

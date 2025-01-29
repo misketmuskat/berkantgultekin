@@ -6,7 +6,7 @@ description: >-
   2025'in başında, yapay zekanın birer metin fabrikasına dönüştüğü günlerde,
   insan neden bir blog sayfası açar?
 cover:
-  image: /images/ai-cover.png
+  image: /images/ai-cover.jpg
   hiddenInList: false
 ShowToc: true
 TocOpen: true
@@ -28,8 +28,6 @@ Bu blogun, şu anda okuduğun ilk girdisini yayınlamamdan birkaç gün önce, �
 [Foucault](/documents/foucault-what-is-an-author.pdf), [Barthes](/documents/barthes-the-death-of-the-author.pdf)
 
 ## ChatGPT is bullshit
-
-![](/images/ai-writing.jpg)
 
 > This is a note.
 {.note}

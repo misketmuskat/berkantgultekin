@@ -10,7 +10,7 @@ categories:
 series:
 aliases:
 cover:
-  image: /images/ai-cover.png
+  image: /images/ai-cover.jpg
   hiddenInList: false
 ShowToc: true
 TocOpen: true
