@@ -6,7 +6,7 @@ description: >-
   2025'in başında, yapay zekanın birer metin fabrikasına dönüştüğü günlerde,
   insan neden bir blog sayfası açar?
 cover:
-  image: /images/ai-cover.webp
+  image: /images/ai-cover.png
   hiddenInList: false
 ShowToc: true
 TocOpen: true

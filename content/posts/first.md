@@ -14,7 +14,7 @@ series:
 aliases:
   - my-first-entry
 cover:
-  image: /images/ai-cover.webp
+  image: /images/ai-cover.png
   hiddenInList: false
 ShowToc: true
 TocOpen: true
