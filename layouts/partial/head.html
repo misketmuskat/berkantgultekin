@@ -47,6 +47,8 @@
     {{- $includes = (append $ScrollStyle $includes) }}
 {{- end }}
 
+<link rel="stylesheet" href="{{ "css/sidetoc.css" | relURL }}">
+
 {{- $includes_all := $includes | resources.Concat "assets/css/includes.css" }}
 
 {{- $theme_vars := (resources.Get "css/core/theme-vars.css") }}

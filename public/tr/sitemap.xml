@@ -57,18 +57,6 @@
                 href="http://localhost:1313/tr/posts/first/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tr/about/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="http://localhost:1313/tr/about/"
-                />
-  </url><url>
     <loc>http://localhost:1313/tr/search/</loc>
     <xhtml:link
                 rel="alternate"
@@ -103,6 +91,18 @@
                 rel="alternate"
                 hreflang="tr"
                 href="http://localhost:1313/tr/categories/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/tr/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="http://localhost:1313/tr/about/"
                 />
   </url><url>
     <loc>http://localhost:1313/tr/series/</loc>
