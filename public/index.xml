@@ -44,26 +44,23 @@ Bu blogun, şu anda okuduğun ilk girdisini yayınlamamdan birkaç gün önce, �
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>Berkant Gültekin, Analytical Engineer passionate about Data Science. In her blog she mixes the technical with the accessible, offering content about programming and discoveries for readers of different skill levels.</description>
-      <content:encoded><![CDATA[<p>Hi! My name is Berkant Gültekin and I&rsquo;m an Analytics Engineer from Turkey. 
+      <description>&lt;img src=&#34;http://localhost:1313/images/pp.jpg&#34; alt=&#34;berkant gültekin&#34; 
+     style=&#34;border-radius: 50%; float: right; margin-left: 20px; width: 280px; height: 280px;&#34; /&gt;
 
+&lt;p&gt;Merhaba, ben Berkant Gültekin. TU Darmstadt’ta Veri ve Söylem Çalışmaları yüksek lisans öğrencisiyim ve aslen Türkiye’denim. Siyaset teorisi, sosyoloji, antropoloji ve dil alanlarında karmaşık konuları anlamak ve aralarındaki bağlantıları keşfetmek benim için her zaman ilgi çekici oldu.&lt;/p&gt;
+&lt;p&gt;Bu blog, bu alanlardaki düşüncelerimi, fikirlerimi ve analizlerimi paylaşmak için bir yer. Aynı zamanda yazı yazma pratiğimi sürdürmek ve yeni anlatım biçimlerini denemek için de bir alan.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<img src="/images/pp.jpg" alt="berkant gültekin" 
+     style="border-radius: 50%; float: right; margin-left: 20px; width: 280px; height: 280px;" />
 
-<img src="/images/pp.jpg" alt="berkant gültekin" height="100%" style="border-radius: 50%; float: right;width: 200px; height: 200px;"/> I&rsquo;ve always liked learning new things and exploring new possibilities and this blog is an outlet for me to create and discover new things related to Data Science.</p>
-<p>I want to write posts that people can read without a technical background, but I also want to showcase and talk about the coding aspects of what I&rsquo;m currently learning, so you&rsquo;ll be able to find a little bit of everything here.</p>
-<p>You can find me at:</p>
-<p><i data-feather="linkedin"></i>
- 
- <script>
-     feather.replace()
- </script> <a href="https://www.linkedin.com/in/berkantgultekin/">berkantgultekin</a><br>
-<i data-feather="file-text"></i>
- 
- <script>
-     feather.replace()
- </script> <a href="https://cv.berkantgultekin.com">curriculum vitae</a></p>
+<p>Merhaba, ben Berkant Gültekin. TU Darmstadt’ta Veri ve Söylem Çalışmaları yüksek lisans öğrencisiyim ve aslen Türkiye’denim. Siyaset teorisi, sosyoloji, antropoloji ve dil alanlarında karmaşık konuları anlamak ve aralarındaki bağlantıları keşfetmek benim için her zaman ilgi çekici oldu.</p>
+<p>Bu blog, bu alanlardaki düşüncelerimi, fikirlerimi ve analizlerimi paylaşmak için bir yer. Aynı zamanda yazı yazma pratiğimi sürdürmek ve yeni anlatım biçimlerini denemek için de bir alan.</p>
+<p>Bana aşağıdaki linklerden ulaşabilirsin:</p>
+<ul>
+<li><a href="https://www.linkedin.com/in/berkantgultekin/">linkedin</a></li>
+<li><a href="https://cv.berkantgultekin.com">özgeçmiş</a></li>
+</ul>
+<p>Keyifli vakitler.</p>
 <hr>
-<h3 id="disclaimer">Disclaimer</h3>
-<p>This is my personal website. The opinions expressed here are my own and do not reflect the views of my current or previous employers. If you would like to learn about the terms and policies, please visit <a href="http://localhost:1313/terms/">this page</a>.</p>
 ]]></content:encoded>
     </item>
     <item>

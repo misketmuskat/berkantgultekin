@@ -3,24 +3,23 @@ title: "bio" # in any language you want
 layout: "about" # is necessary
 # url: "/archive"
 #description: "who is the author of the blog devmedeiros"
-summary: "Berkant Gültekin, Analytical Engineer passionate about Data Science. In her blog she mixes the technical with the accessible, offering content about programming and discoveries for readers of different skill levels."
+summary:
 showtoc: false
 showReadingTime: false
 noComment: true
 disableShare: true
 ---
+{{< round-image "/images/pp.jpg" "berkant gültekin">}}
 
-Hi! My name is Berkant Gültekin and I'm an Analytics Engineer from Turkey. {{< round-image "/images/pp.jpg" "berkant gültekin">}} I've always liked learning new things and exploring new possibilities and this blog is an outlet for me to create and discover new things related to Data Science. 
+Hi. My name is Berkant Gültekin and I’m a Master’s student in Data & Discourse Studies at TU Darmstadt, originally from Turkey. I am passionate about understanding complex subjects and identifying connections, particularly within the fields of political theory, sociology, anthropology and language.
 
-I want to write posts that people can read without a technical background, but I also want to showcase and talk about the coding aspects of what I'm currently learning, so you'll be able to find a little bit of everything here.
+This blog is my medium to share insights, thought processes and ideas related to these fields. It is also a space for experimenting with writing, where I keep my writing practice alive.
 
 You can find me at:
 
- {{< icon "linkedin" >}} [berkantgultekin](https://www.linkedin.com/in/berkantgultekin/)  
- {{< icon "file-text" >}} [curriculum vitae](https://cv.berkantgultekin.com)
+- [linkedin](https://www.linkedin.com/in/berkantgultekin/)  
+- [curriculum vitae](https://cv.berkantgultekin.com)
 
+Enjoy your stay here.
 
 ---
-### Disclaimer
-
-This is my personal website. The opinions expressed here are my own and do not reflect the views of my current or previous employers. If you would like to learn about the terms and policies, please visit [this page]({{< ref "terms">}}).

@@ -3,24 +3,23 @@ title: "bio" # in any language you want
 layout: "about" # is necessary
 # url: "/archive"
 #description: "who is the author of the blog devmedeiros"
-summary: "Berkant Gültekin, Analytical Engineer passionate about Data Science. In her blog she mixes the technical with the accessible, offering content about programming and discoveries for readers of different skill levels."
+summary: 
 showtoc: false
 showReadingTime: false
 noComment: true
 disableShare: true
 ---
+{{< round-image "/images/pp.jpg" "berkant gültekin">}}
 
-Hi! My name is Berkant Gültekin and I'm an Analytics Engineer from Turkey. {{< round-image "/images/pp.jpg" "berkant gültekin">}} I've always liked learning new things and exploring new possibilities and this blog is an outlet for me to create and discover new things related to Data Science. 
+Merhaba, ben Berkant Gültekin. TU Darmstadt’ta Veri ve Söylem Çalışmaları yüksek lisans öğrencisiyim ve aslen Türkiye’denim. Siyaset teorisi, sosyoloji, antropoloji ve dil alanlarında karmaşık konuları anlamak ve aralarındaki bağlantıları keşfetmek benim için her zaman ilgi çekici oldu.
 
-I want to write posts that people can read without a technical background, but I also want to showcase and talk about the coding aspects of what I'm currently learning, so you'll be able to find a little bit of everything here.
+Bu blog, bu alanlardaki düşüncelerimi, fikirlerimi ve analizlerimi paylaşmak için bir yer. Aynı zamanda yazı yazma pratiğimi sürdürmek ve yeni anlatım biçimlerini denemek için de bir alan.
 
-You can find me at:
+Bana aşağıdaki linklerden ulaşabilirsin:
 
- {{< icon "linkedin" >}} [berkantgultekin](https://www.linkedin.com/in/berkantgultekin/)  
- {{< icon "file-text" >}} [curriculum vitae](https://cv.berkantgultekin.com)
+- [linkedin](https://www.linkedin.com/in/berkantgultekin/)  
+- [özgeçmiş](https://cv.berkantgultekin.com)
 
+Keyifli vakitler.
 
 ---
-### Disclaimer
-
-This is my personal website. The opinions expressed here are my own and do not reflect the views of my current or previous employers. If you would like to learn about the terms and policies, please visit [this page]({{< ref "terms">}}).

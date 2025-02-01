@@ -1,6 +1,6 @@
 ---
 date: '2025-01-27T01:14:44+01:00'
-draft: false
+draft: true
 title: Yazar öldü, yaşasın yazar!
 description: >-
 
