@@ -20,8 +20,6 @@ A few days before I published the first entry of this blog that you are reading 
 
 All the while, I'm sitting at my computer, writing my first post on my personal blog, which I started a few days ago. And in this post, I want to think about this very question. What is the point of writing a blog at the beginning of the second quarter of the 21st century, when ChatGPT, Claude, Deepseek have become writing machines? Let's skip that, what is the point of writing in such an age?
 
-Translated with DeepL.com (free version)
-
 ## "Death of The Author"
 
 [Foucault](/documents/foucault-what-is-an-author.pdf), [Barthes](/documents/barthes-the-death-of-the-author.pdf)

@@ -1,5 +1,5 @@
 baseURL: 'https://berkantgultekin.com'
-languageCode: en-us
+languageCode: en-US
 title: berkant gültekin
 theme: PaperMod
 
@@ -16,7 +16,7 @@ minify:
 languages:
   en:
     languageName: "en"
-    weight: 1
+    weight: 2
     taxonomies:
       category: categories
       tag: tags
@@ -37,7 +37,7 @@ languages:
           weight: 30
   tr:
     languageName: "tr"
-    weight: 2
+    weight: 1
     taxonomies:
       category: categories
       tag: tags
