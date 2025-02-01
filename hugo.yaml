@@ -32,8 +32,9 @@ languages:
         - name: tags
           url: tags/
           weight: 20
-        - name: about
+        - name: bio
           url: about/
+          weight: 30
   tr:
     languageName: "tr"
     weight: 2
@@ -52,9 +53,9 @@ languages:
         - name: etiketler
           url: tags/
           weight: 20
-        - name: hakkımda
+        - name: bio
           url: about/
-          weight: 20
+          weight: 30
     # home-info mode
     params:
       homeInfoParams:

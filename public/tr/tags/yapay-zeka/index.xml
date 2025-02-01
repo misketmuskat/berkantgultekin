@@ -2,25 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Yapay Zeka on berkant gültekin</title>
-    <link>http://localhost:1313/tr/tags/yapay-zeka/</link>
+    <link>https://berkantgultekin.com/tr/tags/yapay-zeka/</link>
     <description>Recent content in Yapay Zeka on berkant gültekin</description>
     <image>
       <title>berkant gültekin</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://berkantgultekin.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://berkantgultekin.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.142.0</generator>
     <language>tr</language>
     <lastBuildDate>Mon, 27 Jan 2025 01:14:44 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/tr/tags/yapay-zeka/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://berkantgultekin.com/tr/tags/yapay-zeka/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Yazar öldü, yaşasın yazar!</title>
-      <link>http://localhost:1313/tr/posts/first/</link>
+      <link>https://berkantgultekin.com/tr/posts/first/</link>
       <pubDate>Mon, 27 Jan 2025 01:14:44 +0100</pubDate>
-      <guid>http://localhost:1313/tr/posts/first/</guid>
-      <description>2025&amp;#39;in başında, yapay zekanın birer metin fabrikasına dönüştüğü günlerde, insan neden bir blog sayfası açar?</description>
-      <content:encoded><![CDATA[<h2 id="kısa-bir-bağlam">Kısa bir bağlam</h2>
-<p>Öncelikle, bu metni biraz tarihselleştirmek ve zihinlerde bir bağlama oturtabilmek için ufak bir özetle tarihe bir not düşmek isterim.</p>
+      <guid>https://berkantgultekin.com/tr/posts/first/</guid>
+      <description>&lt;p&gt;Öncelikle, bu metni biraz tarihselleştirmek ve zihinlerde bir bağlama oturtabilmek için ufak bir özetle tarihe bir not düşmek isterim.&lt;/p&gt;
+&lt;p&gt;27 Ocak 2024.
+Bu blogun, şu anda okuduğun ilk girdisini yayınlamamdan birkaç gün önce, Çin menşeili yapay zeka şirketi Deepseek&amp;rsquo;in geliştirdiği Büyük Dil Modeli&amp;rsquo;nin (BDM/LLM) popülerliği, ABD&amp;rsquo;deki teknoloji firmalarının hisselerinde bir şok etkisi yarattı. 24 Ocak Cuma akşamı olaysız kapanan NASDAQ, açıldığı 27 Ocak Pazartesi günü yaklaşık %3&amp;rsquo;lük bir düşüş gördü. Hisse değerindeki %17&amp;rsquo;lik negatif hareketle tablodaki aslan payına sahip NVDIA, medyada en çok haberi yapılan şirket oldu. Deepseek&amp;rsquo;in sunucularına saldırı düzenlendiğine dair haberler okuyorum, ve gerçekten de Deepseek&amp;rsquo;in BDM&amp;rsquo;i kendisine verilen istekleri (prompt) cevapsız bırakıyor.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Öncelikle, bu metni biraz tarihselleştirmek ve zihinlerde bir bağlama oturtabilmek için ufak bir özetle tarihe bir not düşmek isterim.</p>
 <p>27 Ocak 2024.
 Bu blogun, şu anda okuduğun ilk girdisini yayınlamamdan birkaç gün önce, Çin menşeili yapay zeka şirketi Deepseek&rsquo;in geliştirdiği Büyük Dil Modeli&rsquo;nin (BDM/LLM) popülerliği, ABD&rsquo;deki teknoloji firmalarının hisselerinde bir şok etkisi yarattı. 24 Ocak Cuma akşamı olaysız kapanan NASDAQ, açıldığı 27 Ocak Pazartesi günü yaklaşık %3&rsquo;lük bir düşüş gördü. Hisse değerindeki %17&rsquo;lik negatif hareketle tablodaki aslan payına sahip NVDIA, medyada en çok haberi yapılan şirket oldu. Deepseek&rsquo;in sunucularına saldırı düzenlendiğine dair haberler okuyorum, ve gerçekten de Deepseek&rsquo;in BDM&rsquo;i kendisine verilen istekleri (prompt) cevapsız bırakıyor.</p>
 <p>İşte tüm bunlar olurken, bilgisayarımın başına oturmuş, birkaç gün önce temelini attığım kişisel blog sayfama ilk yazımı yazıyorum. Ve bu yazıda, tam da bu soru hakkında düşünmek istiyorum. ChatGPT&rsquo;nin, Claude&rsquo;un, Deepseek&rsquo;in birer yazı makinesi haline geldiği 21. yüzyılın ikinci çeyreğinin başında bir blog yazmanın anlamı nedir? Hadi bunu geçelim, böylesi bir çağda, yazmanın anlamı nedir?</p>

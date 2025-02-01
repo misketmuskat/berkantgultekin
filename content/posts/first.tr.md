@@ -3,8 +3,7 @@ date: '2025-01-27T01:14:44+01:00'
 draft: false
 title: Yazar öldü, yaşasın yazar!
 description: >-
-  2025'in başında, yapay zekanın birer metin fabrikasına dönüştüğü günlerde,
-  insan neden bir blog sayfası açar?
+
 cover:
   image: /images/ai-cover.jpg
   hiddenInList: false
@@ -14,8 +13,6 @@ tags:
   - yapay zeka
 cover.hiddenInList: false
 ---
-## Kısa bir bağlam
-
 Öncelikle, bu metni biraz tarihselleştirmek ve zihinlerde bir bağlama oturtabilmek için ufak bir özetle tarihe bir not düşmek isterim.
 
 27 Ocak 2024.
@@ -39,3 +36,4 @@ Bu blogun, şu anda okuduğun ilk girdisini yayınlamamdan birkaç gün önce, �
 
 > This is dangerous.
 {.danger}
+

@@ -1,5 +1,5 @@
 ---
-title: "hakkımda" # in any language you want
+title: "bio" # in any language you want
 layout: "about" # is necessary
 # url: "/archive"
 #description: "who is the author of the blog devmedeiros"

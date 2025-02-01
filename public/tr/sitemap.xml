@@ -2,131 +2,131 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/tr/</loc>
+    <loc>https://berkantgultekin.com/tr/</loc>
     <lastmod>2025-01-27T01:14:44+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/"
+                href="https://berkantgultekin.com/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="http://localhost:1313/tr/"
+                href="https://berkantgultekin.com/tr/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tr/posts/</loc>
+    <loc>https://berkantgultekin.com/tr/posts/</loc>
     <lastmod>2025-01-27T01:14:44+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/posts/"
+                href="https://berkantgultekin.com/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="http://localhost:1313/tr/posts/"
+                href="https://berkantgultekin.com/tr/posts/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tr/tags/</loc>
+    <loc>https://berkantgultekin.com/tr/tags/</loc>
     <lastmod>2025-01-27T01:14:44+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/"
+                href="https://berkantgultekin.com/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="http://localhost:1313/tr/tags/"
+                href="https://berkantgultekin.com/tr/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tr/tags/yapay-zeka/</loc>
+    <loc>https://berkantgultekin.com/tr/tags/yapay-zeka/</loc>
     <lastmod>2025-01-27T01:14:44+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tr/posts/first/</loc>
+    <loc>https://berkantgultekin.com/tr/posts/first/</loc>
     <lastmod>2025-01-27T01:14:44+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/posts/first/"
+                href="https://berkantgultekin.com/posts/first/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="http://localhost:1313/tr/posts/first/"
+                href="https://berkantgultekin.com/tr/posts/first/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tr/search/</loc>
+    <loc>https://berkantgultekin.com/tr/search/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/search/"
+                href="https://berkantgultekin.com/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="http://localhost:1313/tr/search/"
+                href="https://berkantgultekin.com/tr/search/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tr/archives/</loc>
+    <loc>https://berkantgultekin.com/tr/archives/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/archives/"
+                href="https://berkantgultekin.com/archives/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="http://localhost:1313/tr/archives/"
+                href="https://berkantgultekin.com/tr/archives/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tr/categories/</loc>
+    <loc>https://berkantgultekin.com/tr/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/categories/"
+                href="https://berkantgultekin.com/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="http://localhost:1313/tr/categories/"
+                href="https://berkantgultekin.com/tr/about/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tr/about/</loc>
+    <loc>https://berkantgultekin.com/tr/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/about/"
+                href="https://berkantgultekin.com/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="http://localhost:1313/tr/about/"
+                href="https://berkantgultekin.com/tr/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tr/series/</loc>
+    <loc>https://berkantgultekin.com/tr/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/series/"
+                href="https://berkantgultekin.com/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="http://localhost:1313/tr/series/"
+                href="https://berkantgultekin.com/tr/series/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tr/terms/</loc>
+    <loc>https://berkantgultekin.com/tr/terms/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/terms/"
+                href="https://berkantgultekin.com/terms/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="http://localhost:1313/tr/terms/"
+                href="https://berkantgultekin.com/tr/terms/"
                 />
   </url>
 </urlset>

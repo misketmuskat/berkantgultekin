@@ -2,25 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>berkant gültekin</title>
-    <link>http://localhost:1313/</link>
+    <link>https://berkantgultekin.com/</link>
     <description>Recent content on berkant gültekin</description>
     <image>
       <title>berkant gültekin</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://berkantgultekin.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://berkantgultekin.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.142.0</generator>
     <language>en</language>
     <lastBuildDate>Mon, 27 Jan 2025 01:14:44 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://berkantgultekin.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The author is dead, long live the author!</title>
-      <link>http://localhost:1313/posts/first/</link>
+      <link>https://berkantgultekin.com/posts/first/</link>
       <pubDate>Mon, 27 Jan 2025 01:14:44 +0100</pubDate>
-      <guid>http://localhost:1313/posts/first/</guid>
+      <guid>https://berkantgultekin.com/posts/first/</guid>
       <description>My reading and lecture notes on the same named article.</description>
       <content:encoded><![CDATA[<h1 id="chatgpt-is-bullshit">ChatGPT is Bullshit</h1>
-<blockquote class="note"><p>The following is my reading and lecture notes on Michael Townsen Hicks&rsquo;s philosophical article on the algorithm of Large Language Models and whether their algorithm&rsquo;s logic is similar to &ldquo;reasoning&rdquo; or not. Hicks argues that LLM&rsquo;s are bullshitters.</p>
+<blockquote>
+<p>The following is my reading and lecture notes on Michael Townsen Hicks&rsquo;s philosophical article on the algorithm of Large Language Models and whether their algorithm&rsquo;s logic is similar to &ldquo;reasoning&rdquo; or not. Hicks argues that LLM&rsquo;s are bullshitters.</p>
 </blockquote>
 <h2 id="reading-notes">Reading Notes</h2>
 <ul>
@@ -109,10 +110,10 @@ I am interested in hearing your thoughts on this. Do you think applying &ldquo;t
 ]]></content:encoded>
     </item>
     <item>
-      <title>about</title>
-      <link>http://localhost:1313/about/</link>
+      <title>bio</title>
+      <link>https://berkantgultekin.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://berkantgultekin.com/about/</guid>
       <description>Berkant Gültekin, Analytical Engineer passionate about Data Science. In her blog she mixes the technical with the accessible, offering content about programming and discoveries for readers of different skill levels.</description>
       <content:encoded><![CDATA[<p>Hi! My name is Berkant Gültekin and I&rsquo;m an Analytics Engineer from Turkey. 
 
@@ -132,14 +133,14 @@ I am interested in hearing your thoughts on this. Do you think applying &ldquo;t
  </script> <a href="https://cv.berkantgultekin.com">curriculum vitae</a></p>
 <hr>
 <h3 id="disclaimer">Disclaimer</h3>
-<p>This is my personal website. The opinions expressed here are my own and do not reflect the views of my current or previous employers. If you would like to learn about the terms and policies, please visit <a href="http://localhost:1313/terms/">this page</a>.</p>
+<p>This is my personal website. The opinions expressed here are my own and do not reflect the views of my current or previous employers. If you would like to learn about the terms and policies, please visit <a href="https://berkantgultekin.com/terms/">this page</a>.</p>
 ]]></content:encoded>
     </item>
     <item>
       <title>terms and policies</title>
-      <link>http://localhost:1313/terms/</link>
+      <link>https://berkantgultekin.com/terms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/terms/</guid>
+      <guid>https://berkantgultekin.com/terms/</guid>
       <description>Learn more about our terms and policies, including text and code licenses. Your privacy is a priority for us, and you can browse our site with peace of mind that we do not save cookies on your browser.</description>
       <content:encoded><![CDATA[<p>This is my personal blog, the content here is written and edited by me (Berkant Gültekin). By continue to use this website, in any and all forms, constitutes acceptance of these terms and policies.</p>
 <p>The content provided is for informational purposes. The posts and projects are my own and may not represent the position, strategy, or opinion of my current or past employers. I will not be liable for any errors or omissions in this information nor for the availability of this information. I will not be liable for any losses, injuries, or damages from the display or use of this information.</p>
