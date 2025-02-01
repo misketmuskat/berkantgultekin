@@ -10,10 +10,7 @@ cover:
 ShowToc: true
 TocOpen: true
 tags:
-
-- yapay zeka
-  cover.hiddenInList: false
-
+  - yapay zeka
 ---
 
 Öncelikle, bu metni biraz tarihselleştirmek ve zihinlerde bir bağlama oturtabilmek için ufak bir özetle tarihe bir not düşmek isterim.
