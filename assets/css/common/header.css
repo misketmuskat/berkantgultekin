@@ -2,7 +2,7 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
-    max-width: calc(var(--main-width) + var(--gap) * 16);
+    max-width: 100%; /* Tam genişlikte olsun */
     margin-inline-start: auto;
     margin-inline-end: auto;
     line-height: var(--header-height);
