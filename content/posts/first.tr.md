@@ -29,10 +29,10 @@ Bu blogun, şu anda okuduğun ilk girdisini yayınlamamdan birkaç gün önce, �
 ## ChatGPT is bullshit
 
 > This is a note.
-> {.note}
+{.note}
 
 > This is a warning.
-> {.warning}
+{.warning}
 
 > This is dangerous.
-> {.danger}
+{.danger}
