@@ -10,9 +10,12 @@ cover:
 ShowToc: true
 TocOpen: true
 tags:
-  - yapay zeka
-cover.hiddenInList: false
+
+- yapay zeka
+  cover.hiddenInList: false
+
 ---
+
 Öncelikle, bu metni biraz tarihselleştirmek ve zihinlerde bir bağlama oturtabilmek için ufak bir özetle tarihe bir not düşmek isterim.
 
 27 Ocak 2024.
@@ -29,11 +32,10 @@ Bu blogun, şu anda okuduğun ilk girdisini yayınlamamdan birkaç gün önce, �
 ## ChatGPT is bullshit
 
 > This is a note.
-{.note}
+> {.note}
 
 > This is a warning.
-{.warning}
+> {.warning}
 
 > This is dangerous.
-{.danger}
-
+> {.danger}
