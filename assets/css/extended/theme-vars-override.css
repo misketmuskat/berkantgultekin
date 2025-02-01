@@ -1,59 +1,69 @@
 :root {
     --primary: #282828;
     --secondary: #282828;
-    --content:  #282828;;
+    --content: #282828;
+    --code-block-bg: #F5F5F5;
+
+    /* Açık tema callout renkleri */
+    --note-bg: #83a598;
+    --warning-bg: #fabd2f;
+    --danger-bg: #fb4934;
 }
 
 .dark {
     --primary: #ebdbb2;
     --secondary: #ebdbb2;
     --content: #ebdbb2;
+    --code-block-bg: #282828;
+
+    /* Koyu tema callout renkleri */
+    --note-bg: #294f5f;
+    --warning-bg: #b57b1a;
+    --danger-bg: #a11b16;
 }
 
-/* LİNK RENGİ */
+/* Kod bloğu rengi (açık ve koyu tema için) */
+.post-content pre code {
+    padding: 8px;
+    border-radius: 5px;
+}
+
+.post-content pre code {
+    color: #333; /* Açık tema yazı rengi */
+}
+
+.dark .post-content pre code {
+    color: #f5f5f5; /* Koyu tema yazı rengi */
+}
+
+/* Link renkleri */
 a {
-    color: var(--primary); /* Linklerin normal rengi */
+    color: var(--primary);
     text-decoration: none;
 }
 
 a:hover {
-    color: #b57614; /* Açık tema için hover rengi */
+    color: #b57614; /* Hem açık hem koyu tema için hover rengi */
 }
 
-.dark a:hover {
-    color: #b57614; /* Koyu tema için hover rengi */
-}
-
-/* CALLOUTS */
+/* Callout'lar (not, uyarı, tehlike) */
 .danger, .note, .warning {
-    background: var(--theme); /* Temaya bağlı genel background */
+    background: var(--theme);
     border-left-style: solid;
     border-left-width: 0.4rem;
     border-radius: 0.2rem;
     margin-left: 0;
-    padding: 1rem; /* Yalnızca bloklara genel padding ekleyin */
+    padding: 1rem;
 }
 
 .note {
-    background: #83a598; /* Açık tema için mavi */
+    background: var(--note-bg);
 }
 
 .warning {
-    background: #fabd2f; /* Açık tema için sarı */
+    background: var(--warning-bg);
 }
 
 .danger {
-    background: #fb4934; /* Açık tema için kırmızı */
-}
-
-.dark .note {
-    background: #294f5f; /* Daha koyu mavi */
-}
-
-.dark .warning {
-    background: #b57b1a; /* Daha koyu sarı */
-}
-
-.dark .danger {
-    background: #a11b16; /* Daha koyu kırmızı */
+    background: var(--danger-bg);
 }
