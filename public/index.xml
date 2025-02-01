@@ -10,22 +10,22 @@
       <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.142.0</generator>
-    <language>en</language>
+    <language>tr</language>
     <lastBuildDate>Mon, 27 Jan 2025 01:14:44 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>The author is dead, long live the author!</title>
-      <link>http://localhost:1313/posts/first/</link>
+      <title>Yazar öldü, yaşasın yazar!</title>
+      <link>http://localhost:1313/posts/death-of-the-author/</link>
       <pubDate>Mon, 27 Jan 2025 01:14:44 +0100</pubDate>
-      <guid>http://localhost:1313/posts/first/</guid>
-      <description>&lt;p&gt;First of all, I would like to make a brief historical note in order to historicize and contextualize this text.&lt;/p&gt;
-&lt;p&gt;January 27, 2024.
-A few days before I published the first entry of this blog that you are reading now, the popularity of the Big Language Model (BDM/LLM) developed by the Chinese artificial intelligence company Deepseek sent shockwaves through the stocks of US technology firms. The NASDAQ, which closed without incident on the evening of Friday, January 24, saw a drop of nearly 3% on Monday, January 27, when it opened. NVDIA was the most covered company in the media, with the lion&amp;rsquo;s share of the negative movement of 17% in share value. I&amp;rsquo;ve been reading reports that Deepseek&amp;rsquo;s servers are being attacked, and indeed Deepseek&amp;rsquo;s BDM is not responding to its prompts.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>First of all, I would like to make a brief historical note in order to historicize and contextualize this text.</p>
-<p>January 27, 2024.
-A few days before I published the first entry of this blog that you are reading now, the popularity of the Big Language Model (BDM/LLM) developed by the Chinese artificial intelligence company Deepseek sent shockwaves through the stocks of US technology firms. The NASDAQ, which closed without incident on the evening of Friday, January 24, saw a drop of nearly 3% on Monday, January 27, when it opened. NVDIA was the most covered company in the media, with the lion&rsquo;s share of the negative movement of 17% in share value. I&rsquo;ve been reading reports that Deepseek&rsquo;s servers are being attacked, and indeed Deepseek&rsquo;s BDM is not responding to its prompts.</p>
-<p>All the while, I&rsquo;m sitting at my computer, writing my first post on my personal blog, which I started a few days ago. And in this post, I want to think about this very question. What is the point of writing a blog at the beginning of the second quarter of the 21st century, when ChatGPT, Claude, Deepseek have become writing machines? Let&rsquo;s skip that, what is the point of writing in such an age?</p>
-<h2 id="death-of-the-author">&ldquo;Death of The Author&rdquo;</h2>
+      <guid>http://localhost:1313/posts/death-of-the-author/</guid>
+      <description>&lt;p&gt;Öncelikle, bu metni biraz tarihselleştirmek ve zihinlerde bir bağlama oturtabilmek için ufak bir özetle tarihe bir not düşmek isterim.&lt;/p&gt;
+&lt;p&gt;27 Ocak 2024.
+Bu blogun, şu anda okuduğun ilk girdisini yayınlamamdan birkaç gün önce, Çin menşeili yapay zeka şirketi Deepseek&amp;rsquo;in geliştirdiği Büyük Dil Modeli&amp;rsquo;nin (BDM/LLM) popülerliği, ABD&amp;rsquo;deki teknoloji firmalarının hisselerinde bir şok etkisi yarattı. 24 Ocak Cuma akşamı olaysız kapanan NASDAQ, açıldığı 27 Ocak Pazartesi günü yaklaşık %3&amp;rsquo;lük bir düşüş gördü. Hisse değerindeki %17&amp;rsquo;lik negatif hareketle tablodaki aslan payına sahip NVDIA, medyada en çok haberi yapılan şirket oldu. Deepseek&amp;rsquo;in sunucularına saldırı düzenlendiğine dair haberler okuyorum, ve gerçekten de Deepseek&amp;rsquo;in BDM&amp;rsquo;i kendisine verilen istekleri (prompt) cevapsız bırakıyor.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Öncelikle, bu metni biraz tarihselleştirmek ve zihinlerde bir bağlama oturtabilmek için ufak bir özetle tarihe bir not düşmek isterim.</p>
+<p>27 Ocak 2024.
+Bu blogun, şu anda okuduğun ilk girdisini yayınlamamdan birkaç gün önce, Çin menşeili yapay zeka şirketi Deepseek&rsquo;in geliştirdiği Büyük Dil Modeli&rsquo;nin (BDM/LLM) popülerliği, ABD&rsquo;deki teknoloji firmalarının hisselerinde bir şok etkisi yarattı. 24 Ocak Cuma akşamı olaysız kapanan NASDAQ, açıldığı 27 Ocak Pazartesi günü yaklaşık %3&rsquo;lük bir düşüş gördü. Hisse değerindeki %17&rsquo;lik negatif hareketle tablodaki aslan payına sahip NVDIA, medyada en çok haberi yapılan şirket oldu. Deepseek&rsquo;in sunucularına saldırı düzenlendiğine dair haberler okuyorum, ve gerçekten de Deepseek&rsquo;in BDM&rsquo;i kendisine verilen istekleri (prompt) cevapsız bırakıyor.</p>
+<p>İşte tüm bunlar olurken, bilgisayarımın başına oturmuş, birkaç gün önce temelini attığım kişisel blog sayfama ilk yazımı yazıyorum. Ve bu yazıda, tam da bu soru hakkında düşünmek istiyorum. ChatGPT&rsquo;nin, Claude&rsquo;un, Deepseek&rsquo;in birer yazı makinesi haline geldiği 21. yüzyılın ikinci çeyreğinin başında bir blog yazmanın anlamı nedir? Hadi bunu geçelim, böylesi bir çağda, yazmanın anlamı nedir?</p>
+<h2 id="yazarın-ölümü">&ldquo;Yazarın Ölümü&rdquo;</h2>
 <p><a href="/documents/foucault-what-is-an-author.pdf">Foucault</a>, <a href="/documents/barthes-the-death-of-the-author.pdf">Barthes</a></p>
 <ul>
 <li>Marx: Üretim araçları, üretim ilişkileri,</li>
@@ -67,7 +67,7 @@ A few days before I published the first entry of this blog that you are reading 
 ]]></content:encoded>
     </item>
     <item>
-      <title>terms and policies</title>
+      <title>şartlar ve koşullar</title>
       <link>http://localhost:1313/terms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/terms/</guid>

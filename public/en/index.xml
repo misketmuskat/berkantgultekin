@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>berkant gültekin</title>
+    <link>http://localhost:1313/en/</link>
+    <description>Recent content on berkant gültekin</description>
+    <image>
+      <title>berkant gültekin</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.142.0</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 27 Jan 2025 01:14:44 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The author is dead, long live the author!</title>
+      <link>http://localhost:1313/en/posts/death-of-the-author/</link>
+      <pubDate>Mon, 27 Jan 2025 01:14:44 +0100</pubDate>
+      <guid>http://localhost:1313/en/posts/death-of-the-author/</guid>
+      <description>&lt;p&gt;First of all, I would like to make a brief historical note in order to historicize and contextualize this text.&lt;/p&gt;
+&lt;p&gt;January 27, 2024.
+A few days before I published the first entry of this blog that you are reading now, the popularity of the Big Language Model (BDM/LLM) developed by the Chinese artificial intelligence company Deepseek sent shockwaves through the stocks of US technology firms. The NASDAQ, which closed without incident on the evening of Friday, January 24, saw a drop of nearly 3% on Monday, January 27, when it opened. NVDIA was the most covered company in the media, with the lion&amp;rsquo;s share of the negative movement of 17% in share value. I&amp;rsquo;ve been reading reports that Deepseek&amp;rsquo;s servers are being attacked, and indeed Deepseek&amp;rsquo;s BDM is not responding to its prompts.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>First of all, I would like to make a brief historical note in order to historicize and contextualize this text.</p>
+<p>January 27, 2024.
+A few days before I published the first entry of this blog that you are reading now, the popularity of the Big Language Model (BDM/LLM) developed by the Chinese artificial intelligence company Deepseek sent shockwaves through the stocks of US technology firms. The NASDAQ, which closed without incident on the evening of Friday, January 24, saw a drop of nearly 3% on Monday, January 27, when it opened. NVDIA was the most covered company in the media, with the lion&rsquo;s share of the negative movement of 17% in share value. I&rsquo;ve been reading reports that Deepseek&rsquo;s servers are being attacked, and indeed Deepseek&rsquo;s BDM is not responding to its prompts.</p>
+<p>All the while, I&rsquo;m sitting at my computer, writing my first post on my personal blog, which I started a few days ago. And in this post, I want to think about this very question. What is the point of writing a blog at the beginning of the second quarter of the 21st century, when ChatGPT, Claude, Deepseek have become writing machines? Let&rsquo;s skip that, what is the point of writing in such an age?</p>
+<h2 id="death-of-the-author">&ldquo;Death of The Author&rdquo;</h2>
+<p><a href="/documents/foucault-what-is-an-author.pdf">Foucault</a>, <a href="/documents/barthes-the-death-of-the-author.pdf">Barthes</a></p>
+<ul>
+<li>Marx: Üretim araçları, üretim ilişkileri,</li>
+</ul>
+<h2 id="chatgpt-is-bullshit">ChatGPT is bullshit</h2>
+<blockquote class="note"><p>This is a note.</p>
+</blockquote>
+<blockquote class="warning"><p>This is a warning.</p>
+</blockquote>
+<blockquote class="danger"><p>This is dangerous.</p>
+</blockquote>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>bio</title>
+      <link>http://localhost:1313/en/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/about/</guid>
+      <description>Berkant Gültekin, Analytical Engineer passionate about Data Science. In her blog she mixes the technical with the accessible, offering content about programming and discoveries for readers of different skill levels.</description>
+      <content:encoded><![CDATA[<p>Hi! My name is Berkant Gültekin and I&rsquo;m an Analytics Engineer from Turkey. 
+
+
+<img src="/images/pp.jpg" alt="berkant gültekin" height="100%" style="border-radius: 50%; float: right;width: 200px; height: 200px;"/> I&rsquo;ve always liked learning new things and exploring new possibilities and this blog is an outlet for me to create and discover new things related to Data Science.</p>
+<p>I want to write posts that people can read without a technical background, but I also want to showcase and talk about the coding aspects of what I&rsquo;m currently learning, so you&rsquo;ll be able to find a little bit of everything here.</p>
+<p>You can find me at:</p>
+<p><i data-feather="linkedin"></i>
+ 
+ <script>
+     feather.replace()
+ </script> <a href="https://www.linkedin.com/in/berkantgultekin/">berkantgultekin</a><br>
+<i data-feather="file-text"></i>
+ 
+ <script>
+     feather.replace()
+ </script> <a href="https://cv.berkantgultekin.com">curriculum vitae</a></p>
+<hr>
+<h3 id="disclaimer">Disclaimer</h3>
+<p>This is my personal website. The opinions expressed here are my own and do not reflect the views of my current or previous employers. If you would like to learn about the terms and policies, please visit <a href="http://localhost:1313/en/terms/">this page</a>.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>terms and policies</title>
+      <link>http://localhost:1313/en/terms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/terms/</guid>
+      <description>Learn more about our terms and policies, including text and code licenses. Your privacy is a priority for us, and you can browse our site with peace of mind that we do not save cookies on your browser.</description>
+      <content:encoded><![CDATA[<p>This is my personal blog, the content here is written and edited by me (Berkant Gültekin). By continue to use this website, in any and all forms, constitutes acceptance of these terms and policies.</p>
+<p>The content provided is for informational purposes. The posts and projects are my own and may not represent the position, strategy, or opinion of my current or past employers. I will not be liable for any errors or omissions in this information nor for the availability of this information. I will not be liable for any losses, injuries, or damages from the display or use of this information.</p>
+<h2 id="privacy-policy">Privacy policy</h2>
+<h3 id="cookies-and-tracking">Cookies and Tracking</h3>
+<p>This website doesn&rsquo;t use cookies to track or identify users, but it does use Google Analytics to track user engagement and use of the website. The report provided by Google Analytics doesn&rsquo;t have any identifying information on visitors. Please read more about <a href="https://policies.google.com/privacy">Google&rsquo;s Privacy Policy</a>.</p>
+<h2 id="license">License</h2>
+<p>All source code on this website is licensed under MIT.</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-txt" data-lang="txt"><span class="line"><span class="cl">MIT License
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">Copyright 2021-2024 Jaqueline Souza Medeiros
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">Permission is hereby granted, free of charge, to any person obtaining a copy of this 
+</span></span><span class="line"><span class="cl">software and associated documentation files (the &#34;Software&#34;), to deal in the Software
+</span></span><span class="line"><span class="cl">without restriction, including without limitation the rights to use, copy, modify, 
+</span></span><span class="line"><span class="cl">merge, publish, distribute, sublicense, and/or sell copies of the Software, and to 
+</span></span><span class="line"><span class="cl">permit persons to whom the Software is furnished to do so, subject to the following 
+</span></span><span class="line"><span class="cl">conditions:
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">The above copyright notice and this permission notice shall be included in all copies 
+</span></span><span class="line"><span class="cl">or substantial portions of the Software.
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">THE SOFTWARE IS PROVIDED &#34;AS IS&#34;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, 
+</span></span><span class="line"><span class="cl">INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR 
+</span></span><span class="line"><span class="cl">PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE 
+</span></span><span class="line"><span class="cl">LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT
+</span></span><span class="line"><span class="cl">OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR 
+</span></span><span class="line"><span class="cl">OTHER DEALINGS IN THE SOFTWARE.
+</span></span></code></pre></div><p>The <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC-BY-SA-4.0</a> applies for all content otherwise noticed under /post/ and /projects/.</p>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

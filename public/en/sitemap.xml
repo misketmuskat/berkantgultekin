@@ -2,131 +2,131 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/tags/artificial-intelligence/</loc>
+    <loc>http://localhost:1313/en/tags/artificial-intelligence/</loc>
     <lastmod>2025-01-27T01:14:44+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:1313/en/</loc>
     <lastmod>2025-01-27T01:14:44+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="http://localhost:1313/tr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
                 href="http://localhost:1313/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/"
+                />
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>http://localhost:1313/en/posts/</loc>
     <lastmod>2025-01-27T01:14:44+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="http://localhost:1313/tr/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
                 href="http://localhost:1313/posts/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/posts/"
+                />
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/en/tags/</loc>
     <lastmod>2025-01-27T01:14:44+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="http://localhost:1313/tr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
                 href="http://localhost:1313/tags/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/tags/"
+                />
   </url><url>
-    <loc>http://localhost:1313/posts/first/</loc>
+    <loc>http://localhost:1313/en/posts/first/</loc>
     <lastmod>2025-01-27T01:14:44+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="http://localhost:1313/tr/posts/first/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
                 href="http://localhost:1313/posts/first/"
                 />
-  </url><url>
-    <loc>http://localhost:1313/archives/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="http://localhost:1313/tr/archives/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="http://localhost:1313/en/posts/first/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/archives/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
                 href="http://localhost:1313/archives/"
                 />
-  </url><url>
-    <loc>http://localhost:1313/about/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="http://localhost:1313/tr/about/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="http://localhost:1313/en/archives/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
                 href="http://localhost:1313/about/"
                 />
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="http://localhost:1313/tr/categories/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="http://localhost:1313/en/about/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
                 href="http://localhost:1313/categories/"
                 />
-  </url><url>
-    <loc>http://localhost:1313/search/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="http://localhost:1313/tr/search/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="http://localhost:1313/en/categories/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/search/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
                 href="http://localhost:1313/search/"
                 />
-  </url><url>
-    <loc>http://localhost:1313/series/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="http://localhost:1313/tr/series/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="http://localhost:1313/en/search/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
                 href="http://localhost:1313/series/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/series/"
+                />
   </url><url>
-    <loc>http://localhost:1313/terms/</loc>
+    <loc>http://localhost:1313/en/terms/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="http://localhost:1313/tr/terms/"
+                href="http://localhost:1313/terms/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/terms/"
+                href="http://localhost:1313/en/terms/"
                 />
   </url>
 </urlset>

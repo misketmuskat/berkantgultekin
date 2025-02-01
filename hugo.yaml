@@ -1,5 +1,7 @@
 baseURL: 'https://berkantgultekin.com'
-languageCode: en-US
+languageCode: tr
+defaultContentLanguage: tr
+
 title: berkant gültekin
 theme: PaperMod
 
@@ -14,27 +16,6 @@ minify:
   minifyOutput: true
 
 languages:
-  en:
-    languageName: "en"
-    weight: 2
-    taxonomies:
-      category: categories
-      tag: tags
-      series: series
-    menu:
-      main:
-        - name: archive
-          url: archives
-          weight: 5
-        - name: search
-          url: search/
-          weight: 10
-        - name: tags
-          url: tags/
-          weight: 20
-        - name: bio
-          url: about/
-          weight: 30
   tr:
     languageName: "tr"
     weight: 1
@@ -61,23 +42,32 @@ languages:
       homeInfoParams:
         Title: "Merhaba \U0001F44B"
         Content: Kişisel bloguma hoşgeldin
-      socialIcons:
-        - name: email
-          url: "berkantgultekin@tutanota.com"
-        - name: googlescholar
-          url: "cv.berkantgultekin.com"
-        - name: x
-          url: "https://x.com/berkantgultekin"
-        - name: linkedin
-          url: "https://instagram.com"
-        - name: spotify
-          url: "https://open.spotify.com/user/berkantgultekin"
-        - name: rss
-          url: "https://berkantgultekin.com/tr/posts/index.xml"
-#      editPost:
-#        URL: "https://github.com/misketmuskat/berkantgultekin/tree/main/content"
-#        Text: "düzenleme öner" # edit text
-#        appendFilePath: true # to append file path to Edit link
+  en:
+    languageName: "en"
+    weight: 2
+    taxonomies:
+      category: categories
+      tag: tags
+      series: series
+    menu:
+      main:
+        - name: archive
+          url: archives
+          weight: 5
+        - name: search
+          url: search/
+          weight: 10
+        - name: tags
+          url: tags/
+          weight: 20
+        - name: bio
+          url: about/
+          weight: 30
+    # home-info mode
+    params:
+      homeInfoParams:
+        Title: "Hi there \U0001F44B"
+        Content: Welcome to my blog
 
 outputs:
   home:
@@ -143,11 +133,6 @@ params:
         url: posts
       - name: tags
         url: tags
-
-  # home-info mode
-  homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
 
   socialIcons:
     - name: email
