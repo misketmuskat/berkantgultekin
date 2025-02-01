@@ -1,9 +1,7 @@
 :root {
-
     --primary: #282828;
     --secondary: #282828;
     --content:  #282828;;
-
 }
 
 .dark {
@@ -12,6 +10,21 @@
     --content: #ebdbb2;
 }
 
+/* LİNK RENGİ */
+a {
+    color: var(--primary); /* Linklerin normal rengi */
+    text-decoration: none;
+}
+
+a:hover {
+    color: #b57614; /* Açık tema için hover rengi */
+}
+
+.dark a:hover {
+    color: #b57614; /* Koyu tema için hover rengi */
+}
+
+/* CALLOUTS */
 .danger, .note, .warning {
     background: var(--theme); /* Temaya bağlı genel background */
     border-left-style: solid;
@@ -43,29 +56,4 @@
 
 .dark .danger {
     background: #a11b16; /* Daha koyu kırmızı */
-}
-
-/* Açık tema için etiketler */
-.tags a, .taxonomy-term a, .tag {
-    background: #f4e8c1; /* Açık tema için açık pastel sarı */
-    color: #403d39; /* Açık tema için koyu gri yazı */
-    border-radius: 5px;
-    padding: 3px 8px;
-    text-decoration: none;
-}
-
-.tags a:hover, .taxonomy-term a:hover, .tag:hover {
-    background: #e0d3a8; /* Hover durumunda biraz koyulaşsın */
-    color: #1d1d1d;
-}
-
-/* Koyu tema için etiketler */
-.dark .tags a, .dark .taxonomy-term a, .dark .tag {
-    background: #3a3a3a; /* Koyu tema için koyu gri */
-    color: #fdfbec; /* Koyu tema için açık yazı */
-}
-
-.dark .tags a:hover, .dark .taxonomy-term a:hover, .dark .tag:hover {
-    background: #5a5a5a; /* Hover durumunda biraz daha açık gri */
-    color: #ffffff;
 }

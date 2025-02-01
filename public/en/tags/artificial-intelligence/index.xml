@@ -15,9 +15,9 @@
     <atom:link href="http://localhost:1313/en/tags/artificial-intelligence/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The author is dead, long live the author!</title>
-      <link>http://localhost:1313/en/posts/first/</link>
+      <link>http://localhost:1313/en/posts/death-of-the-author/</link>
       <pubDate>Mon, 27 Jan 2025 01:14:44 +0100</pubDate>
-      <guid>http://localhost:1313/en/posts/first/</guid>
+      <guid>http://localhost:1313/en/posts/death-of-the-author/</guid>
       <description>&lt;p&gt;First of all, I would like to make a brief historical note in order to historicize and contextualize this text.&lt;/p&gt;
 &lt;p&gt;January 27, 2024.
 A few days before I published the first entry of this blog that you are reading now, the popularity of the Big Language Model (BDM/LLM) developed by the Chinese artificial intelligence company Deepseek sent shockwaves through the stocks of US technology firms. The NASDAQ, which closed without incident on the evening of Friday, January 24, saw a drop of nearly 3% on Monday, January 27, when it opened. NVDIA was the most covered company in the media, with the lion&amp;rsquo;s share of the negative movement of 17% in share value. I&amp;rsquo;ve been reading reports that Deepseek&amp;rsquo;s servers are being attacked, and indeed Deepseek&amp;rsquo;s BDM is not responding to its prompts.&lt;/p&gt;</description>

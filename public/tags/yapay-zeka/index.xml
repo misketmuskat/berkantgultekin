@@ -15,9 +15,9 @@
     <atom:link href="http://localhost:1313/tags/yapay-zeka/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Yazar öldü, yaşasın yazar!</title>
-      <link>http://localhost:1313/posts/first/</link>
+      <link>http://localhost:1313/posts/death-of-the-author/</link>
       <pubDate>Mon, 27 Jan 2025 01:14:44 +0100</pubDate>
-      <guid>http://localhost:1313/posts/first/</guid>
+      <guid>http://localhost:1313/posts/death-of-the-author/</guid>
       <description>&lt;p&gt;Öncelikle, bu metni biraz tarihselleştirmek ve zihinlerde bir bağlama oturtabilmek için ufak bir özetle tarihe bir not düşmek isterim.&lt;/p&gt;
 &lt;p&gt;27 Ocak 2024.
 Bu blogun, şu anda okuduğun ilk girdisini yayınlamamdan birkaç gün önce, Çin menşeili yapay zeka şirketi Deepseek&amp;rsquo;in geliştirdiği Büyük Dil Modeli&amp;rsquo;nin (BDM/LLM) popülerliği, ABD&amp;rsquo;deki teknoloji firmalarının hisselerinde bir şok etkisi yarattı. 24 Ocak Cuma akşamı olaysız kapanan NASDAQ, açıldığı 27 Ocak Pazartesi günü yaklaşık %3&amp;rsquo;lük bir düşüş gördü. Hisse değerindeki %17&amp;rsquo;lik negatif hareketle tablodaki aslan payına sahip NVDIA, medyada en çok haberi yapılan şirket oldu. Deepseek&amp;rsquo;in sunucularına saldırı düzenlendiğine dair haberler okuyorum, ve gerçekten de Deepseek&amp;rsquo;in BDM&amp;rsquo;i kendisine verilen istekleri (prompt) cevapsız bırakıyor.&lt;/p&gt;</description>
