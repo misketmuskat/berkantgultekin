@@ -5,7 +5,7 @@
       "name": "Shortcuts",
       "shortcuts": [
         {
-          "authToken": "your-auth-token-from-readeck",
+          "authToken": "eyJhbGciOiJFZERTQSIsInR5cCI6IkpXVCJ9.eyJqdGkiOiJnZ0thUVFFdTRRU0JGRDRWYkJiREZaIn0.YqjcYzmAvG4MpI9OfyZ-LCoKdyRds24vjYFIlYQtvszi3brQSSua1XwifHhBo2vClhLHmLesGN8MkKkj6fVEBA",
           "authentication": "bearer",
           "bodyContent": "{\n  \"labels\": [ \"{{readeck_label}}\" ],\n  \"title\": \"{{readeck_title}}\",\n  \"url\": \"{{readeck_url}}\"\n}",
           "contentType": "application/json",
@@ -29,7 +29,7 @@
     {
       "id": "795e4f2e-77a2-418f-aad2-a969e9b98233",
       "key": "readeck_instance",
-      "value": "https://your-readeck.url"
+      "value": "https://read.berkantgultekin.com"
     },
     {
       "id": "3a35e08d-ad57-4c38-9ccc-ed6dba0a36c4",
