@@ -1,0 +1,53 @@
+{
+  "categories": [
+    {
+      "id": "8f4299d4-4c30-4a8e-a3f9-c90694011713",
+      "name": "Shortcuts",
+      "shortcuts": [
+        {
+          "authToken": "eyJhbGciOiJFZERTQSIsInR5cCI6IkpXVCJ9.eyJqdGkiOiJnZ0thUVFFdTRRU0JGRDRWYkJiREZaIn0.YqjcYzmAvG4MpI9OfyZ-LCoKdyRds24vjYFIlYQtvszi3brQSSua1XwifHhBo2vClhLHmLesGN8MkKkj6fVEBA",
+          "authentication": "bearer",
+          "bodyContent": "{\n  \"labels\": [\n    \"{{3a35e08d-ad57-4c38-9ccc-ed6dba0a36c4}}\"\n  ],\n  \"title\": \"{{e0397bcf-59db-49a5-a0d9-af2c5c814e93}}\",\n  \"url\": \"{{0ecf7d0e-c2e4-498d-b066-953e1345f680}}\"\n}",
+          "contentType": "application/json",
+          "description": "Save to Readeck",
+          "iconName": "flat_color_lightbulb_7",
+          "id": "737627d0-d592-4bd7-a382-48c80653821d",
+          "method": "POST",
+          "name": "Readeck",
+          "responseHandling": {
+            "successMessage": "Article saved successfully!",
+            "successOutput": "message",
+            "uiType": "toast"
+          },
+          "url": "{{795e4f2e-77a2-418f-aad2-a969e9b98233}}/api/bookmarks"
+        }
+      ]
+    }
+  ],
+  "compatibilityVersion": 71,
+  "variables": [
+    {
+      "id": "795e4f2e-77a2-418f-aad2-a969e9b98233",
+      "key": "readeck_instance",
+      "value": "https://read.berkantgultekin.com"
+    },
+    {
+      "id": "3a35e08d-ad57-4c38-9ccc-ed6dba0a36c4",
+      "key": "readeck_label",
+      "value": "inbox"
+    },
+    {
+      "flags": 4,
+      "id": "e0397bcf-59db-49a5-a0d9-af2c5c814e93",
+      "key": "readeck_title",
+      "type": "text"
+    },
+    {
+      "flags": 1,
+      "id": "0ecf7d0e-c2e4-498d-b066-953e1345f680",
+      "key": "readeck_url",
+      "type": "text"
+    }
+  ],
+  "version": 76
+}
