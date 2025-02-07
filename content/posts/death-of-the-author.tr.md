@@ -1,9 +1,7 @@
 ---
 date: '2025-01-27T01:14:44+01:00'
-draft: true
-title: Yazar öldü, yaşasın yazar!
-description: >-
-
+draft: false
+title: 'Yazar öldü, yaşasın yazar!'
 cover:
   image: /images/ai-cover.jpg
   hiddenInList: false
@@ -11,6 +9,7 @@ ShowToc: true
 TocOpen: true
 tags:
   - yapay zeka
+cover.hiddenInList: false
 ---
 
 Öncelikle, bu metni biraz tarihselleştirmek ve zihinlerde bir bağlama oturtabilmek için ufak bir özetle tarihe bir not düşmek isterim.
