@@ -11,7 +11,7 @@ disableShare: true
 ---
 {{< round-image "/images/pp.jpg" "berkant gültekin">}}
 
-Hi. My name is Berkant Gültekin and I’m a Master’s student in Data & Discourse Studies at TU Darmstadt, originally from Turkey. I am passionate about understanding complex subjects and identifying connections, particularly within the fields of political theory, sociology, anthropology and language.
+Hi. I am Berkant. I’m a Master’s student in Data & Discourse Studies at TU Darmstadt, originally from Turkey. I have passion about understanding complex subjects and identifying connections, particularly within the fields of political theory, sociology, anthropology and language.
 
 This blog is my medium to share insights, thought processes and ideas related to these fields. It is also a space for experimenting with writing, where I keep my writing practice alive.
 
