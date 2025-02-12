@@ -19,7 +19,7 @@
             "successOutput": "message",
             "uiType": "toast"
           },
-          "url": "{{795e4f2e-77a2-418f-aad2-a969e9b98233}}/api/bookmarks"
+          "url": "https://read.berkantgultekin.com/api/bookmarks"
         }
       ]
     }
