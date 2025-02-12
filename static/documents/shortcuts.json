@@ -7,7 +7,7 @@
         {
           "authToken": "eyJhbGciOiJFZERTQSIsInR5cCI6IkpXVCJ9.eyJqdGkiOiJnZ0thUVFFdTRRU0JGRDRWYkJiREZaIn0.YqjcYzmAvG4MpI9OfyZ-LCoKdyRds24vjYFIlYQtvszi3brQSSua1XwifHhBo2vClhLHmLesGN8MkKkj6fVEBA",
           "authentication": "bearer",
-          "bodyContent": "{\n  \"labels\": [ \"{{readeck_label}}\" ],\n  \"title\": \"{{readeck_title}}\",\n  \"url\": \"{{readeck_url}}\"\n}",
+          "bodyContent": "{\n  \"labels\": [\n    \"{{3a35e08d-ad57-4c38-9ccc-ed6dba0a36c4}}\"\n  ],\n  \"title\": \"{{e0397bcf-59db-49a5-a0d9-af2c5c814e93}}\",\n  \"url\": \"{{0ecf7d0e-c2e4-498d-b066-953e1345f680}}\"\n}",
           "contentType": "application/json",
           "description": "Article to Readeck",
           "iconName": "flat_color_lightbulb_7",
@@ -19,7 +19,7 @@
             "successOutput": "message",
             "uiType": "toast"
           },
-          "url": "{{readeck_instance}}/api/bookmarks"
+          "url": "{{795e4f2e-77a2-418f-aad2-a969e9b98233}}/api/bookmarks"
         }
       ]
     }
@@ -29,7 +29,7 @@
     {
       "id": "795e4f2e-77a2-418f-aad2-a969e9b98233",
       "key": "readeck_instance",
-      "value": "https://read.berkantgultekin.com"
+      "value": "https://read.berkantgultekin.com/"
     },
     {
       "id": "3a35e08d-ad57-4c38-9ccc-ed6dba0a36c4",
@@ -37,11 +37,13 @@
       "value": "inbox"
     },
     {
+      "flags": 4,
       "id": "e0397bcf-59db-49a5-a0d9-af2c5c814e93",
       "key": "readeck_title",
       "type": "text"
     },
     {
+      "flags": 1,
       "id": "0ecf7d0e-c2e4-498d-b066-953e1345f680",
       "key": "readeck_url",
       "type": "text"
