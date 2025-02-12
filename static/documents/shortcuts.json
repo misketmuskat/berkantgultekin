@@ -19,7 +19,7 @@
             "successOutput": "message",
             "uiType": "toast"
           },
-          "url": "https://read.berkantgultekin.com/api/bookmarks"
+          "url": "{{795e4f2e-77a2-418f-aad2-a969e9b98233}}/api/bookmarks"
         }
       ]
     }
@@ -29,7 +29,7 @@
     {
       "id": "795e4f2e-77a2-418f-aad2-a969e9b98233",
       "key": "readeck_instance",
-      "value": "https://read.berkantgultekin.com/"
+      "value": "https://read.berkantgultekin.com"
     },
     {
       "id": "3a35e08d-ad57-4c38-9ccc-ed6dba0a36c4",
