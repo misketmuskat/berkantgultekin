@@ -3,7 +3,7 @@ date: '2025-01-27T01:14:44+01:00'
 draft: false
 title: 'Image, Interpretation, and Interface'
 cover:
-  image: /images/ai-cover.jpgv
+  image: /images/ai-cover.jpg
   hiddenInList: false
 ShowToc: true
 TocOpen: true
