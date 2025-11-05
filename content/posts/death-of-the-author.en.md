@@ -1,6 +1,6 @@
 ---
 date: '2025-01-27T01:14:44+01:00'
-draft: true
+draft: false
 title: 'The author is dead, long live the author!'
 cover:
   image: /images/ai-cover.jpgv
