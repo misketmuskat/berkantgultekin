@@ -12,7 +12,6 @@ tags:
   - visual culture
 ---
 ## Visual Knowledge and Cultural Bias
-
 Visual forms are never neutral. Every diagram, chart, or image carries **cultural assumptions** about what knowledge is and how it should look. From geometry to Google Maps, people have used images not just to show information but to **organize and control knowledge**.
 
 We must study images as **interpretive systems**, not as transparent mirrors of truth. Visual knowledge is *constructed* — shaped by values, technologies, and worldviews.
@@ -25,6 +24,14 @@ She calls for a **humanistic approach** to visualization: one that recognizes me
 - Renaissance perspective made the viewer the center of space — a model of human dominance.
 - Modern data graphics suggest objectivity, but they rely on design choices, color scales, and framing.
 - Maps and charts hide the politics of what they exclude.
+
+Thus, **seeing is not neutral**; it is a cultural act shaped by power, language, and ideology.
+
+## The Language of Graphics: Searching for Rules
+Throughout history, scholars have tried to find a **universal grammar of visual communication** — a way to make images function like language, with rules and syntax.
+
+Philosophers and artists from the Renaissance to the Bauhaus believed that visual forms could express truth mathematically. Geometry and proportion were seen as bridges between art and science. Perspective drawings, color wheels, and design grids were all efforts to rationalize vision.
+
 
 
 
