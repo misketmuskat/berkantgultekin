@@ -19,7 +19,7 @@ She calls for a **humanistic approach** to visualization: one that recognizes me
 
 > "Every visualization is an argument, not a window on reality."
 
-![Renaissance perspective made the viewer the center of space — a model of human dominance.]({{site.baseurl}}/static/images/Piero_della_Francesca-Ideal_City-1-1024x295.jpg)
+![Renaissance perspective made the viewer the center of space — a model of human dominance.](/static/images/Piero_della_Francesca-Ideal_City-1-1024x295.jpg)
 
 - Renaissance perspective made the viewer the center of space — a model of human dominance.
 - Modern data graphics suggest objectivity, but they rely on design choices, color scales, and framing.
