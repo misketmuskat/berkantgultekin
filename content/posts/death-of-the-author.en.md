@@ -11,6 +11,7 @@ cover.hiddenInList: false
 tags:
   - visual culture
 ---
+## Visual Knowledge and Cultural Bias
 
 Visual forms are never neutral. Every diagram, chart, or image carries **cultural assumptions** about what knowledge is and how it should look. From geometry to Google Maps, people have used images not just to show information but to **organize and control knowledge**.
 
