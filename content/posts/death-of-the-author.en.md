@@ -1,7 +1,7 @@
 ---
 date: '2025-01-27T01:14:44+01:00'
 draft: false
-title: 'The author is dead, long live the author!'
+title: 'Image, Interpretation, and Interface'
 cover:
   image: /images/ai-cover.jpgv
   hiddenInList: false
@@ -18,6 +18,13 @@ We must study images as **interpretive systems**, not as transparent mirrors of 
 She calls for a **humanistic approach** to visualization: one that recognizes meaning as *situated and subjective*, not universal or purely mathematical.
 
 > "Every visualization is an argument, not a window on reality."
+
+- ![Renaissance perspective made the viewer the center of space — a model of human dominance.]({{site.baseurl}}/static/images/Piero_della_Francesca-Ideal_City-1-1024x295.webp)
+
+- Renaissance perspective made the viewer the center of space — a model of human dominance.
+- Modern data graphics suggest objectivity, but they rely on design choices, color scales, and framing.
+- Maps and charts hide the politics of what they exclude.
+
 
 
 > This is a note.
