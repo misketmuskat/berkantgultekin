@@ -141,7 +141,7 @@ params:
     - name: email
       url: "berkantgultekin@tutanota.com"
     - name: googlescholar
-      url: "cv.berkantgultekin.com"
+      url: "https://cv.berkantgultekin.com"
     - name: x
       url: "https://x.com/berkantgultekin"
     - name: linkedin
