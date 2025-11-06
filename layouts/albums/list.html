@@ -1,20 +1,27 @@
 {{ define "main" }}
-  <article class="post">
-    <h1 class="post-title">{{ .Title }}</h1>
-    <div class="post-content">
-      {{/* _index.md içindeki yazıyı gösterir */}}
-      {{ .Content }}
-    </div>
+    <main class="posts">
+        <h1>{{ .Title }}</h1>
 
-    <h2>Tüm Albümler</h2>
-    <ul>
-      {{/* Alt sayfaları (albüm klasörlerini) listele */}}
-      {{ range .Pages.ByWeight }}
-        <li>
-          <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-          ({{ len (.Resources.ByType "image") }} fotoğraf)
-        </li>
-      {{ end }}
-    </ul>
-  </article>
+        {{- if .Content }}
+            <div class="content">{{ .Content }}</div>
+        {{- end }}
+
+        {{- $pages := where .Pages "Params.hidden" "ne" true }}
+        {{- range $pages.GroupByDate "2006" }}
+            <div class="posts-group">
+                <div class="post-year">{{ .Key }}</div>
+
+                <ul class="posts-list">
+                    {{- range .Pages }}
+                        <li class="post-item">
+                            <a href="{{.RelPermalink}}">
+                                <span class="post-title">{{.Title}}</span>
+                                <span class="post-day">{{ if .Site.Params.dateformShort }}{{ .Date.Format .Site.Params.dateformShort }}{{ else }}{{ .Date.Format "Jan 2"}}{{ end }}</span>
+                            </a>
+                        </li>
+                    {{- end }}
+                </ul>
+            </div>
+        {{- end }}
+    </main>
 {{ end }}
