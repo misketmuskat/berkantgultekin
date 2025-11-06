@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Visual Culture on berkant gültekin</title>
+    <link>http://localhost:1313/en/tags/visual-culture/</link>
+    <description>Recent content in Visual Culture on berkant gültekin</description>
+    <image>
+      <title>berkant gültekin</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.151.0</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 27 Jan 2025 01:14:44 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/tags/visual-culture/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Image, Interpretation, and Interface</title>
+      <link>http://localhost:1313/en/posts/death-of-the-author/</link>
+      <pubDate>Mon, 27 Jan 2025 01:14:44 +0100</pubDate>
+      <guid>http://localhost:1313/en/posts/death-of-the-author/</guid>
+      <description>&lt;h2 id=&#34;visual-knowledge-and-cultural-bias&#34;&gt;Visual Knowledge and Cultural Bias&lt;/h2&gt;
+&lt;p&gt;Visual forms are never neutral. Every diagram, chart, or image carries &lt;strong&gt;cultural assumptions&lt;/strong&gt; about what knowledge is and how it should look. From geometry to Google Maps, people have used images not just to show information but to &lt;strong&gt;organize and control knowledge&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;We must study images as &lt;strong&gt;interpretive systems&lt;/strong&gt;, not as transparent mirrors of truth. Visual knowledge is &lt;em&gt;constructed&lt;/em&gt; — shaped by values, technologies, and worldviews.
+She calls for a &lt;strong&gt;humanistic approach&lt;/strong&gt; to visualization: one that recognizes meaning as &lt;em&gt;situated and subjective&lt;/em&gt;, not universal or purely mathematical.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<h2 id="visual-knowledge-and-cultural-bias">Visual Knowledge and Cultural Bias</h2>
+<p>Visual forms are never neutral. Every diagram, chart, or image carries <strong>cultural assumptions</strong> about what knowledge is and how it should look. From geometry to Google Maps, people have used images not just to show information but to <strong>organize and control knowledge</strong>.</p>
+<p>We must study images as <strong>interpretive systems</strong>, not as transparent mirrors of truth. Visual knowledge is <em>constructed</em> — shaped by values, technologies, and worldviews.
+She calls for a <strong>humanistic approach</strong> to visualization: one that recognizes meaning as <em>situated and subjective</em>, not universal or purely mathematical.</p>
+<blockquote>
+<p>&ldquo;Every visualization is an argument, not a window on reality.&rdquo;</p></blockquote>
+<p><img alt="Renaissance perspective made the viewer the center of space — a model of human dominance." loading="lazy" src="https://raw.githubusercontent.com/misketmuskat/berkantgultekin/refs/heads/main/static/images/Piero_della_Francesca-Ideal_City-1-1024x295.jpg"></p>
+<ul>
+<li>Renaissance perspective made the viewer the center of space — a model of human dominance.</li>
+<li>Modern data graphics suggest objectivity, but they rely on design choices, color scales, and framing.</li>
+<li>Maps and charts hide the politics of what they exclude.</li>
+</ul>
+<p>Thus, <strong>seeing is not neutral</strong>; it is a cultural act shaped by power, language, and ideology.</p>
+<h2 id="the-language-of-graphics-searching-for-rules">The Language of Graphics: Searching for Rules</h2>
+<p>Throughout history, scholars have tried to find a <strong>universal grammar of visual communication</strong> — a way to make images function like language, with rules and syntax.</p>
+<p>Philosophers and artists from the Renaissance to the Bauhaus believed that visual forms could express truth mathematically. Geometry and proportion were seen as bridges between art and science. Perspective drawings, color wheels, and design grids were all efforts to rationalize vision.</p>
+<p>In the 20th century, this search continued in new forms. <a href="https://en.wikipedia.org/wiki/Wassily_Kandinsky">Wassily Kandisnky</a> and <a href="https://en.wikipedia.org/wiki/Paul_Klee">Paul Klee</a> at the <a href="https://en.wikipedia.org/wiki/Bauhaus">Bauhaus</a> studied how shapes and colors evoke emotional and psychological effects. For them, visual form had a kind of <em>spiritual grammar</em>.</p>
+<p><a href="https://en.wikipedia.org/wiki/Ferdinand_de_Saussure">Ferdinand de Saussure</a> and later <a href="https://en.wikipedia.org/wiki/Semiotics">semioticians</a> inspired the idea that visual elements could act as <em>signs</em>, just like words. <a href="https://en.wikipedia.org/wiki/Jacques_Bertin">Jocques Bertin</a>&rsquo;s &ldquo;Semiology of Graphics (1967) proposed a systematic visual language for data: position, size, color, and shape as &ldquo;<a href="https://en.wikipedia.org/wiki/Visual_variable">visual variables</a>.&rdquo;</p>
+<p>Be aware: Such systems treat images as if they have <em>fixed meanings</em>. In reality, interpretation depends on <strong>context</strong> and <strong>culture</strong>. Indeed. A color may signal &ldquo;danger&rdquo; in one society and &ldquo;good luck&rdquo; in another. A map projection can distort the world to favor one region over another.</p>
+<p>So while the &ldquo;grammar of graphics&rdquo; is useful for design and analysis, it must be understood as <strong>a rhetoric, not a code</strong> — a way of persuasion, not an absolute truth.</p>
+<h2 id="knowledge-and-vision-seeing-as-understanding">Knowledge and Vision: Seeing as Understanding</h2>
+<p>Western culture has long linked <strong>vision</strong> with <strong>knowledge</strong> — &ldquo;seeing is believing&rdquo;. From Plato&rsquo;s cave to Enlightenment science, truth has often been imagined as something we see <em>clearly</em>.</p>
+<h3 id="historical-roots-of-visual-knowledge">Historical Roots of Visual Knowledge</h3>
+<p>In <strong>classical philosophy</strong>, geometry was the highest form of knowledge because it expressed eternal forms through sight and logic. <strong>Renaissance artists</strong> like Alberti and Leonardo turned this idea into practice through linear perspective — a system that placed the human observer at the center of a rational, measurable world. <strong>Modern science</strong> inherited this model: instruments like the telescope or microscope extend human sight, promising objective truth.</p>
+<p>This tradition also encodes <em>hierarchies</em> and prioritizes <strong>the eye as an instrument of power</strong>. To &ldquo;see&rdquo; becomes to &ldquo;know&rdquo;, and to know becomes to &ldquo;<strong>control</strong>&rdquo;. Visual systems — maps, anatomical drawings, colonial surveys — have historically served authority, not neutrality. What is visible (and what is left invisible) is a political choice.</p>
+<p><strong>Further Reading</strong></p>
+<ul>
+<li><a href="https://www.essentialvermeer.com/technique/perspective/history.html">The History of Perspective — Essential Vermeer</a></li>
+</ul>
+<blockquote class="note"><p>This is a note.</p></blockquote>
+<blockquote class="warning"><p>This is a warning.</p></blockquote>
+<blockquote class="danger"><p>This is dangerous.</p></blockquote>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

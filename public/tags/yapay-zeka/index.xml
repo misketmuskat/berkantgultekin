@@ -9,7 +9,7 @@
       <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- 0.142.0</generator>
+    <generator>Hugo -- 0.151.0</generator>
     <language>tr</language>
     <lastBuildDate>Mon, 27 Jan 2025 01:14:44 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/yapay-zeka/index.xml" rel="self" type="application/rss+xml" />
@@ -31,12 +31,9 @@ Bu blogun, şu anda okuduğun ilk girdisini yayınlamamdan birkaç gün önce, �
 <li>Marx: Üretim araçları, üretim ilişkileri,</li>
 </ul>
 <h2 id="chatgpt-is-bullshit">ChatGPT is bullshit</h2>
-<blockquote class="note"><p>This is a note.</p>
-</blockquote>
-<blockquote class="warning"><p>This is a warning.</p>
-</blockquote>
-<blockquote class="danger"><p>This is dangerous.</p>
-</blockquote>
+<blockquote class="note"><p>This is a note.</p></blockquote>
+<blockquote class="warning"><p>This is a warning.</p></blockquote>
+<blockquote class="danger"><p>This is dangerous.</p></blockquote>
 ]]></content:encoded>
     </item>
   </channel>

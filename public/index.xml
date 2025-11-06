@@ -9,10 +9,114 @@
       <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- 0.142.0</generator>
+    <generator>Hugo -- 0.151.0</generator>
     <language>tr</language>
-    <lastBuildDate>Mon, 27 Jan 2025 01:14:44 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 06 Nov 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>İlk Albümüm</title>
+      <link>http://localhost:1313/albums/</link>
+      <pubDate>Thu, 06 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/albums/</guid>
+      <description>&lt;p&gt;Burası ilk albümümün açıklamasıdır. Aşağıdaki galeride bu albümdeki fotoğrafları görebilirsiniz.&lt;/p&gt;
+&lt;div class=&#34;pswp-gallery&#34;&gt;
+  
+  
+  
+  
+  
+  
+    
+    
+    
+    
+    &lt;a 
+      href=&#34;http://localhost:1313/albums/000005.JPG&#34; 
+      data-pswp-width=&#34;1830&#34; 
+      data-pswp-height=&#34;2515&#34; 
+      target=&#34;_blank&#34;
+      rel=&#34;noreferrer&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/albums/000005_hu_33a0bf0ec39ccfaa.JPG&#34; alt=&#34;000005.JPG&#34; width=&#34;800&#34; height=&#34;1099&#34; /&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    &lt;a 
+      href=&#34;http://localhost:1313/albums/000007.JPG&#34; 
+      data-pswp-width=&#34;2515&#34; 
+      data-pswp-height=&#34;1830&#34; 
+      target=&#34;_blank&#34;
+      rel=&#34;noreferrer&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/albums/000007_hu_61a790510d2acbae.JPG&#34; alt=&#34;000007.JPG&#34; width=&#34;800&#34; height=&#34;582&#34; /&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    &lt;a 
+      href=&#34;http://localhost:1313/albums/000017.JPG&#34; 
+      data-pswp-width=&#34;2515&#34; 
+      data-pswp-height=&#34;1830&#34; 
+      target=&#34;_blank&#34;
+      rel=&#34;noreferrer&#34;&gt;
+      &lt;img src=&#34;http://localhost:1313/albums/000017_hu_8537e7b471227a6.JPG&#34; alt=&#34;000017.JPG&#34; width=&#34;800&#34; height=&#34;582&#34; /&gt;
+    &lt;/a&gt;
+  
+&lt;/div&gt;</description>
+      <content:encoded><![CDATA[<p>Burası ilk albümümün açıklamasıdır. Aşağıdaki galeride bu albümdeki fotoğrafları görebilirsiniz.</p>
+<div class="pswp-gallery">
+  
+  
+  
+  
+  
+  
+    
+    
+    
+    
+    <a 
+      href="/albums/000005.JPG" 
+      data-pswp-width="1830" 
+      data-pswp-height="2515" 
+      target="_blank"
+      rel="noreferrer">
+      <img src="/albums/000005_hu_33a0bf0ec39ccfaa.JPG" alt="000005.JPG" width="800" height="1099" />
+    </a>
+  
+    
+    
+    
+    
+    <a 
+      href="/albums/000007.JPG" 
+      data-pswp-width="2515" 
+      data-pswp-height="1830" 
+      target="_blank"
+      rel="noreferrer">
+      <img src="/albums/000007_hu_61a790510d2acbae.JPG" alt="000007.JPG" width="800" height="582" />
+    </a>
+  
+    
+    
+    
+    
+    <a 
+      href="/albums/000017.JPG" 
+      data-pswp-width="2515" 
+      data-pswp-height="1830" 
+      target="_blank"
+      rel="noreferrer">
+      <img src="/albums/000017_hu_8537e7b471227a6.JPG" alt="000017.JPG" width="800" height="582" />
+    </a>
+  
+</div>
+
+]]></content:encoded>
+    </item>
     <item>
       <title>Yazar öldü, yaşasın yazar!</title>
       <link>http://localhost:1313/posts/death-of-the-author/</link>
@@ -31,12 +135,9 @@ Bu blogun, şu anda okuduğun ilk girdisini yayınlamamdan birkaç gün önce, �
 <li>Marx: Üretim araçları, üretim ilişkileri,</li>
 </ul>
 <h2 id="chatgpt-is-bullshit">ChatGPT is bullshit</h2>
-<blockquote class="note"><p>This is a note.</p>
-</blockquote>
-<blockquote class="warning"><p>This is a warning.</p>
-</blockquote>
-<blockquote class="danger"><p>This is dangerous.</p>
-</blockquote>
+<blockquote class="note"><p>This is a note.</p></blockquote>
+<blockquote class="warning"><p>This is a warning.</p></blockquote>
+<blockquote class="danger"><p>This is dangerous.</p></blockquote>
 ]]></content:encoded>
     </item>
     <item>
@@ -47,12 +148,12 @@ Bu blogun, şu anda okuduğun ilk girdisini yayınlamamdan birkaç gün önce, �
       <description>&lt;img src=&#34;http://localhost:1313/images/pp.jpg&#34; alt=&#34;berkant gültekin&#34; 
      style=&#34;border-radius: 50%; float: right; margin-left: 20px; width: 280px; height: 280px;&#34; /&gt;
 
-&lt;p&gt;Merhaba, ben Berkant Gültekin. TU Darmstadt’ta Veri ve Söylem Çalışmaları yüksek lisans öğrencisiyim ve aslen Türkiye’denim. Siyaset teorisi, sosyoloji, antropoloji ve dil alanlarında karmaşık konuları anlamak ve aralarındaki bağlantıları keşfetmek benim için her zaman ilgi çekici oldu.&lt;/p&gt;
+&lt;p&gt;Merhaba, ben Berkant. TU Darmstadt’ta Veri ve Söylem Çalışmaları yüksek lisans öğrencisiyim ve aslen Türkiye’denim. Siyaset teorisi, sosyoloji, antropoloji ve dil alanlarında karmaşık konuları anlamak ve aralarındaki bağlantıları keşfetmek benim için her zaman ilgi çekici oldu.&lt;/p&gt;
 &lt;p&gt;Bu blog, bu alanlardaki düşüncelerimi, fikirlerimi ve analizlerimi paylaşmak için bir yer. Aynı zamanda yazı yazma pratiğimi sürdürmek ve yeni anlatım biçimlerini denemek için de bir alan.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<img src="/images/pp.jpg" alt="berkant gültekin" 
      style="border-radius: 50%; float: right; margin-left: 20px; width: 280px; height: 280px;" />
 
-<p>Merhaba, ben Berkant Gültekin. TU Darmstadt’ta Veri ve Söylem Çalışmaları yüksek lisans öğrencisiyim ve aslen Türkiye’denim. Siyaset teorisi, sosyoloji, antropoloji ve dil alanlarında karmaşık konuları anlamak ve aralarındaki bağlantıları keşfetmek benim için her zaman ilgi çekici oldu.</p>
+<p>Merhaba, ben Berkant. TU Darmstadt’ta Veri ve Söylem Çalışmaları yüksek lisans öğrencisiyim ve aslen Türkiye’denim. Siyaset teorisi, sosyoloji, antropoloji ve dil alanlarında karmaşık konuları anlamak ve aralarındaki bağlantıları keşfetmek benim için her zaman ilgi çekici oldu.</p>
 <p>Bu blog, bu alanlardaki düşüncelerimi, fikirlerimi ve analizlerimi paylaşmak için bir yer. Aynı zamanda yazı yazma pratiğimi sürdürmek ve yeni anlatım biçimlerini denemek için de bir alan.</p>
 <p>Bana aşağıdaki linklerden ulaşabilirsin:</p>
 <ul>

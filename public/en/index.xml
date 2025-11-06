@@ -9,34 +9,51 @@
       <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- 0.142.0</generator>
+    <generator>Hugo -- 0.151.0</generator>
     <language>en</language>
     <lastBuildDate>Mon, 27 Jan 2025 01:14:44 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>The author is dead, long live the author!</title>
+      <title>Image, Interpretation, and Interface</title>
       <link>http://localhost:1313/en/posts/death-of-the-author/</link>
       <pubDate>Mon, 27 Jan 2025 01:14:44 +0100</pubDate>
       <guid>http://localhost:1313/en/posts/death-of-the-author/</guid>
-      <description>&lt;p&gt;First of all, I would like to make a brief historical note in order to historicize and contextualize this text.&lt;/p&gt;
-&lt;p&gt;January 27, 2024.
-A few days before I published the first entry of this blog that you are reading now, the popularity of the Big Language Model (BDM/LLM) developed by the Chinese artificial intelligence company Deepseek sent shockwaves through the stocks of US technology firms. The NASDAQ, which closed without incident on the evening of Friday, January 24, saw a drop of nearly 3% on Monday, January 27, when it opened. NVDIA was the most covered company in the media, with the lion&amp;rsquo;s share of the negative movement of 17% in share value. I&amp;rsquo;ve been reading reports that Deepseek&amp;rsquo;s servers are being attacked, and indeed Deepseek&amp;rsquo;s BDM is not responding to its prompts.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>First of all, I would like to make a brief historical note in order to historicize and contextualize this text.</p>
-<p>January 27, 2024.
-A few days before I published the first entry of this blog that you are reading now, the popularity of the Big Language Model (BDM/LLM) developed by the Chinese artificial intelligence company Deepseek sent shockwaves through the stocks of US technology firms. The NASDAQ, which closed without incident on the evening of Friday, January 24, saw a drop of nearly 3% on Monday, January 27, when it opened. NVDIA was the most covered company in the media, with the lion&rsquo;s share of the negative movement of 17% in share value. I&rsquo;ve been reading reports that Deepseek&rsquo;s servers are being attacked, and indeed Deepseek&rsquo;s BDM is not responding to its prompts.</p>
-<p>All the while, I&rsquo;m sitting at my computer, writing my first post on my personal blog, which I started a few days ago. And in this post, I want to think about this very question. What is the point of writing a blog at the beginning of the second quarter of the 21st century, when ChatGPT, Claude, Deepseek have become writing machines? Let&rsquo;s skip that, what is the point of writing in such an age?</p>
-<h2 id="death-of-the-author">&ldquo;Death of The Author&rdquo;</h2>
-<p><a href="/documents/foucault-what-is-an-author.pdf">Foucault</a>, <a href="/documents/barthes-the-death-of-the-author.pdf">Barthes</a></p>
+      <description>&lt;h2 id=&#34;visual-knowledge-and-cultural-bias&#34;&gt;Visual Knowledge and Cultural Bias&lt;/h2&gt;
+&lt;p&gt;Visual forms are never neutral. Every diagram, chart, or image carries &lt;strong&gt;cultural assumptions&lt;/strong&gt; about what knowledge is and how it should look. From geometry to Google Maps, people have used images not just to show information but to &lt;strong&gt;organize and control knowledge&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;We must study images as &lt;strong&gt;interpretive systems&lt;/strong&gt;, not as transparent mirrors of truth. Visual knowledge is &lt;em&gt;constructed&lt;/em&gt; — shaped by values, technologies, and worldviews.
+She calls for a &lt;strong&gt;humanistic approach&lt;/strong&gt; to visualization: one that recognizes meaning as &lt;em&gt;situated and subjective&lt;/em&gt;, not universal or purely mathematical.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<h2 id="visual-knowledge-and-cultural-bias">Visual Knowledge and Cultural Bias</h2>
+<p>Visual forms are never neutral. Every diagram, chart, or image carries <strong>cultural assumptions</strong> about what knowledge is and how it should look. From geometry to Google Maps, people have used images not just to show information but to <strong>organize and control knowledge</strong>.</p>
+<p>We must study images as <strong>interpretive systems</strong>, not as transparent mirrors of truth. Visual knowledge is <em>constructed</em> — shaped by values, technologies, and worldviews.
+She calls for a <strong>humanistic approach</strong> to visualization: one that recognizes meaning as <em>situated and subjective</em>, not universal or purely mathematical.</p>
+<blockquote>
+<p>&ldquo;Every visualization is an argument, not a window on reality.&rdquo;</p></blockquote>
+<p><img alt="Renaissance perspective made the viewer the center of space — a model of human dominance." loading="lazy" src="https://raw.githubusercontent.com/misketmuskat/berkantgultekin/refs/heads/main/static/images/Piero_della_Francesca-Ideal_City-1-1024x295.jpg"></p>
 <ul>
-<li>Marx: Üretim araçları, üretim ilişkileri,</li>
+<li>Renaissance perspective made the viewer the center of space — a model of human dominance.</li>
+<li>Modern data graphics suggest objectivity, but they rely on design choices, color scales, and framing.</li>
+<li>Maps and charts hide the politics of what they exclude.</li>
 </ul>
-<h2 id="chatgpt-is-bullshit">ChatGPT is bullshit</h2>
-<blockquote class="note"><p>This is a note.</p>
-</blockquote>
-<blockquote class="warning"><p>This is a warning.</p>
-</blockquote>
-<blockquote class="danger"><p>This is dangerous.</p>
-</blockquote>
+<p>Thus, <strong>seeing is not neutral</strong>; it is a cultural act shaped by power, language, and ideology.</p>
+<h2 id="the-language-of-graphics-searching-for-rules">The Language of Graphics: Searching for Rules</h2>
+<p>Throughout history, scholars have tried to find a <strong>universal grammar of visual communication</strong> — a way to make images function like language, with rules and syntax.</p>
+<p>Philosophers and artists from the Renaissance to the Bauhaus believed that visual forms could express truth mathematically. Geometry and proportion were seen as bridges between art and science. Perspective drawings, color wheels, and design grids were all efforts to rationalize vision.</p>
+<p>In the 20th century, this search continued in new forms. <a href="https://en.wikipedia.org/wiki/Wassily_Kandinsky">Wassily Kandisnky</a> and <a href="https://en.wikipedia.org/wiki/Paul_Klee">Paul Klee</a> at the <a href="https://en.wikipedia.org/wiki/Bauhaus">Bauhaus</a> studied how shapes and colors evoke emotional and psychological effects. For them, visual form had a kind of <em>spiritual grammar</em>.</p>
+<p><a href="https://en.wikipedia.org/wiki/Ferdinand_de_Saussure">Ferdinand de Saussure</a> and later <a href="https://en.wikipedia.org/wiki/Semiotics">semioticians</a> inspired the idea that visual elements could act as <em>signs</em>, just like words. <a href="https://en.wikipedia.org/wiki/Jacques_Bertin">Jocques Bertin</a>&rsquo;s &ldquo;Semiology of Graphics (1967) proposed a systematic visual language for data: position, size, color, and shape as &ldquo;<a href="https://en.wikipedia.org/wiki/Visual_variable">visual variables</a>.&rdquo;</p>
+<p>Be aware: Such systems treat images as if they have <em>fixed meanings</em>. In reality, interpretation depends on <strong>context</strong> and <strong>culture</strong>. Indeed. A color may signal &ldquo;danger&rdquo; in one society and &ldquo;good luck&rdquo; in another. A map projection can distort the world to favor one region over another.</p>
+<p>So while the &ldquo;grammar of graphics&rdquo; is useful for design and analysis, it must be understood as <strong>a rhetoric, not a code</strong> — a way of persuasion, not an absolute truth.</p>
+<h2 id="knowledge-and-vision-seeing-as-understanding">Knowledge and Vision: Seeing as Understanding</h2>
+<p>Western culture has long linked <strong>vision</strong> with <strong>knowledge</strong> — &ldquo;seeing is believing&rdquo;. From Plato&rsquo;s cave to Enlightenment science, truth has often been imagined as something we see <em>clearly</em>.</p>
+<h3 id="historical-roots-of-visual-knowledge">Historical Roots of Visual Knowledge</h3>
+<p>In <strong>classical philosophy</strong>, geometry was the highest form of knowledge because it expressed eternal forms through sight and logic. <strong>Renaissance artists</strong> like Alberti and Leonardo turned this idea into practice through linear perspective — a system that placed the human observer at the center of a rational, measurable world. <strong>Modern science</strong> inherited this model: instruments like the telescope or microscope extend human sight, promising objective truth.</p>
+<p>This tradition also encodes <em>hierarchies</em> and prioritizes <strong>the eye as an instrument of power</strong>. To &ldquo;see&rdquo; becomes to &ldquo;know&rdquo;, and to know becomes to &ldquo;<strong>control</strong>&rdquo;. Visual systems — maps, anatomical drawings, colonial surveys — have historically served authority, not neutrality. What is visible (and what is left invisible) is a political choice.</p>
+<p><strong>Further Reading</strong></p>
+<ul>
+<li><a href="https://www.essentialvermeer.com/technique/perspective/history.html">The History of Perspective — Essential Vermeer</a></li>
+</ul>
+<blockquote class="note"><p>This is a note.</p></blockquote>
+<blockquote class="warning"><p>This is a warning.</p></blockquote>
+<blockquote class="danger"><p>This is dangerous.</p></blockquote>
 ]]></content:encoded>
     </item>
     <item>
@@ -47,12 +64,12 @@ A few days before I published the first entry of this blog that you are reading 
       <description>&lt;img src=&#34;http://localhost:1313/images/pp.jpg&#34; alt=&#34;berkant gültekin&#34; 
      style=&#34;border-radius: 50%; float: right; margin-left: 20px; width: 280px; height: 280px;&#34; /&gt;
 
-&lt;p&gt;Hi. My name is Berkant Gültekin and I’m a Master’s student in Data &amp;amp; Discourse Studies at TU Darmstadt, originally from Turkey. I am passionate about understanding complex subjects and identifying connections, particularly within the fields of political theory, sociology, anthropology and language.&lt;/p&gt;
+&lt;p&gt;Hi. I am Berkant. I’m a Master’s student in Data &amp;amp; Discourse Studies at TU Darmstadt, originally from Turkey. I have passion about understanding complex subjects and identifying connections, particularly within the fields of political theory, sociology, anthropology and language.&lt;/p&gt;
 &lt;p&gt;This blog is my medium to share insights, thought processes and ideas related to these fields. It is also a space for experimenting with writing, where I keep my writing practice alive.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<img src="/images/pp.jpg" alt="berkant gültekin" 
      style="border-radius: 50%; float: right; margin-left: 20px; width: 280px; height: 280px;" />
 
-<p>Hi. My name is Berkant Gültekin and I’m a Master’s student in Data &amp; Discourse Studies at TU Darmstadt, originally from Turkey. I am passionate about understanding complex subjects and identifying connections, particularly within the fields of political theory, sociology, anthropology and language.</p>
+<p>Hi. I am Berkant. I’m a Master’s student in Data &amp; Discourse Studies at TU Darmstadt, originally from Turkey. I have passion about understanding complex subjects and identifying connections, particularly within the fields of political theory, sociology, anthropology and language.</p>
 <p>This blog is my medium to share insights, thought processes and ideas related to these fields. It is also a space for experimenting with writing, where I keep my writing practice alive.</p>
 <p>You can find me at:</p>
 <ul>
