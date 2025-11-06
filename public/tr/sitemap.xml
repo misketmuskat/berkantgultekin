@@ -57,6 +57,8 @@
                 href="http://localhost:1313/posts/death-of-the-author/"
                 />
   </url><url>
+    <loc>http://localhost:1313/albums/</loc>
+  </url><url>
     <loc>http://localhost:1313/search/</loc>
     <xhtml:link
                 rel="alternate"

@@ -28,6 +28,9 @@ languages:
       series: series
     menu:
       main:
+        - name: fotoalbüm
+          url: albums/
+          weight: 2
         - name: arşiv
           url: archives
           weight: 5
@@ -54,6 +57,9 @@ languages:
       series: series
     menu:
       main:
+        - name: fotoalbüm
+          url: albums/
+          weight: 2
         - name: archive
           url: archives
           weight: 5
