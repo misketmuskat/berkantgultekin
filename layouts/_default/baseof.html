@@ -10,6 +10,11 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 
     {{- partial "head.html" . }}    
+
+    {{ $pswp_style := resources.Get "css/photoswipe.css" }}
+    {{ if $pswp_style }}
+      <link rel="stylesheet" href="{{ $pswp_style.RelPermalink }}">
+    {{ end }}
 </head>
 
 <body class="
@@ -25,6 +30,28 @@
         {{- block "main" . }}{{ end }}
     </main>
     {{ partialCached "footer.html" . .Layout .Kind (.Param "hideFooter") (.Param "ShowCodeCopyButtons") -}}
+
+<script type="module">
+  // Gerekli modülleri /static/ altındaki yolunuzdan import edin
+  import PhotoSwipeLightbox from '/photoswipe/photoswipe-lightbox.esm.js';
+
+  // PhotoSwipe'ı başlat
+  const lightbox = new PhotoSwipeLightbox({
+    // Bu seçici, Adım 3'te oluşturacağımız shortcode'daki 
+    // div class'ı ile EŞLEŞMELİDİR.
+    gallery: '.pswp-gallery', 
+
+    // Galerideki tıklanabilir öğelerin 'a' (link) olduğunu belirtir
+    children: 'a', 
+
+    // Ana PhotoSwipe modülünün yolunu gösterir
+    // Bu dosyanın da /static/photoswipe/ altında olduğundan emin olun!
+    pswpModule: () => import('/photoswipe/photoswipe.esm.js') 
+  });
+
+  // Başlat
+  lightbox.init();
+</script>
 </body>
 
 </html>

@@ -1,0 +1,10 @@
+{{ define "main" }}
+  <article class="post">
+    <h1 class="post-title">{{ .Title }}</h1>
+    <div class="post-content">
+      {{/* index.md içindeki metni ve 
+           {{< gallery >}} shortcode'unu işler */}}
+      {{ .Content }}
+    </div>
+  </article>
+{{ end }}

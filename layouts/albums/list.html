@@ -1,0 +1,20 @@
+{{ define "main" }}
+  <article class="post">
+    <h1 class="post-title">{{ .Title }}</h1>
+    <div class="post-content">
+      {{/* _index.md içindeki yazıyı gösterir */}}
+      {{ .Content }}
+    </div>
+
+    <h2>Tüm Albümler</h2>
+    <ul>
+      {{/* Alt sayfaları (albüm klasörlerini) listele */}}
+      {{ range .Pages.ByWeight }}
+        <li>
+          <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+          ({{ len (.Resources.ByType "image") }} fotoğraf)
+        </li>
+      {{ end }}
+    </ul>
+  </article>
+{{ end }}

@@ -1,0 +1,21 @@
+<div class="pswp-gallery">
+  
+  {{/* Sayfanın kendisine ait olan (Page Bundle) tüm "image" tipindeki kaynakları bul */}}
+  {{ $images := .Page.Resources.ByType "image" }}
+  
+  {{/* Bu görseller arasında döngüye gir */}}
+  {{ range $images }}
+    
+    {{/* Hugo'nun küçük bir thumbnail oluşturmasını sağla (800px genişlik, kalite %75) */}}
+    {{ $thumb := .Resize "800x q75" }}
+    
+    <a 
+      href="{{ .RelPermalink }}" 
+      data-pswp-width="{{ .Width }}" 
+      data-pswp-height="{{ .Height }}" 
+      target="_blank"
+      rel="noreferrer">
+      <img src="{{ $thumb.RelPermalink }}" alt="{{ .Title | default .Name }}" width="{{ $thumb.Width }}" height="{{ $thumb.Height }}" />
+    </a>
+  {{ end }}
+</div>
