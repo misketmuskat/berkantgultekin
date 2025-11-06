@@ -45,6 +45,8 @@ languages:
           weight: 30
     # home-info mode
     params:
+      mainSections:
+        - posts
       homeInfoParams:
         Title: "Merhaba \U0001F44B"
         Content: Kişisel bloguma hoşgeldin
